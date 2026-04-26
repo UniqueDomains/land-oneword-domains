@@ -1,22 +1,22 @@
-# Available .LAND One-Word Domains (8,166)
+# Available .LAND One-Word Domains (10,498)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C166%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C166%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C498%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .land one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .land one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,498 domains** on the canonical page below.
 
-**Public extract:** 8,166 rows · **Live catalog:** 8,166 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,498 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/land`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LAND one-word domain 
 
 ### Files
 
-- `land.csv` — public CSV extract (8,166 rows)
-- `land.json` — public JSON extract (8,166 rows)
+- `land.csv` — public CSV extract (1,000 rows)
+- `land.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| forward.land    | available | $19.99    | $52.99        | 68             | 39     | 7      | name.com                                                  |
-| gold.land       | resell    | —         | —             | 72             | 99     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| golf.land       | premium   | $250      | —             | 84             | 43     | 4      | name.com                                                  |
-| sharp.land      | available | $19.99    | $52.99        | 84             | 36     | 5      | name.com                                                  |
-| silver.land     | resell    | —         | —             | 56             | 99     | 6      | Porkbun LLC                                               |
-| agile.land      | premium   | $19.99    | $52.99        | 92             | 41     | 5      | name.com                                                  |
-| account.land    | available | $54.98    | —             | 98             | 34     | 7      | namecheap                                                 |
-| bright.land     | resell    | —         | —             | 74             | 98     | 6      | Porkbun LLC                                               |
-| review.land     | premium   | $42.90    | $42.90        | 94             | 39     | 6      | namecheap                                                 |
-| advance.land    | available | $19.99    | $52.99        | 110            | 33     | 7      | name.com                                                  |
-| taiwan.land     | resell    | —         | —             | 66             | 93     | 6      | Porkbun LLC                                               |
-| personal.land   | premium   | $260      | $260          | 91             | 35     | 8      | namecheap                                                 |
-| eleven.land     | available | $19.99    | $52.99        | 88             | 33     | 6      | name.com                                                  |
-| get.land        | resell    | —         | —             | 88             | 69     | 3      | Spaceship, Inc.                                           |
-| streaming.land  | premium   | $128.70   | $128.70       | 88             | 35     | 9      | namecheap                                                 |
-| goon.land       | available | $19.99    | $52.99        | 80             | 33     | 5      | name.com                                                  |
-| easy.land       | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC                                              |
-| technology.land | premium   | $128.70   | $128.70       | 88             | 35     | 10     | namecheap                                                 |
-| concrete.land   | available | $54.98    | —             | 102            | 32     | 8      | namecheap                                                 |
-| flow.land       | resell    | —         | —             | 96             | 67     | 4      | Sav.com, LLC - 20                                         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| forms.land       | available | $19.99    | —             | 54             | 28     | 5      | name.com         |
+| business.land    | resell    | —         | —             | 90             | 52     | 8      | Porkbun LLC      |
+| etc.land         | premium   | $500      | —             | 58             | 34     | 3      | name.com         |
+| backyard.land    | available | $19.99    | —             | 80             | 27     | 9      | name.com         |
+| root.land        | resell    | —         | —             | 64             | 49     | 4      | Dynadot Inc      |
+| partners.land    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| KFC.land         | available | $54.98    | —             | 74             | 27     | 3      | namecheap        |
+| marine.land      | resell    | —         | —             | 74             | 28     | 6      | Porkbun LLC      |
+| Jim.land         | premium   | $280      | $280          | 78             | 28     | 3      | namecheap        |
+| trades.land      | available | $19.99    | —             | 71             | 26     | 6      | name.com         |
+| pestcontrol.land | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| apartments.land  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo         |
+| claire.land      | available | $19.99    | —             | 68             | 26     | 6      | name.com         |
+| hills.land       | premium   | $123.75   | —             | 65             | 20     | 5      | name.com         |
+| doctors.land     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
+| vacations.land   | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo         |
+| destination.land | available | $19.99    | —             | 90             | 25     | 11     | name.com         |
+| rocks.land       | premium   | $250      | —             | 78             | 18     | 5      | name.com         |
+| chem.land        | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
+| pictures.land    | premium   | $500      | —             | 82             | 17     | 8      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,166-row public sample | 8,166 live domains                               |
+| 1,000-row public sample | 10,498 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
