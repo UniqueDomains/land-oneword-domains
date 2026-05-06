@@ -588,6 +588,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36271e44-5d7c-463c-8ba3-ca3c343f9391,onetrickpony.land,available,19.99,,56,6,14,name.com,,
 362abdbc-4398-4003-af75-e8c1d9f2cbbb,rocks.land,premium,250,,78,18,5,name.com,,
 3661bd25-800b-45a6-96a3-cd39439e5178,suspecting.land,available,19.99,,48,1,10,name.com,,
+367ac85b-18ab-400b-b93f-41d35c617ceb,baby.land,resell,,,78,31,4,Porkbun LLC,02/11/2025 17:19,02/11/2026 17:19
 36858271-e960-44d1-9681-88377785a21e,does.land,available,19.99,,60,15,4,name.com,,
 36862cfe-4d54-428f-b78e-e6acf6dbc8b4,movingforward.land,available,19.99,,56,8,14,name.com,,
 368e0e36-7b8c-40ec-b37b-8d95c7801f40,gonefishing.land,available,19.99,,72,7,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bc09f52-0f1e-45a9-81ec-5183f17892b0,manyhappies.land,available,19.99,,72,1,12,name.com,,
 5bc2ff9a-89f7-458d-bbbf-a9494a7e8b69,proxybattle.land,available,19.99,,44,1,12,name.com,,
 5bc65004-e6c9-4bbb-9ea0-335dc1e5e727,mortgages.land,available,19.99,,50,16,9,name.com,,
-5be29d92-98a5-4db0-b59c-be4461bf4cdc,Imissyou.land,available,54.98,,58,7,10,namecheap,,
