@@ -228,6 +228,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 13644af8-e0bd-42bb-910d-f1d3746f137d,patches.land,available,19.99,,53,16,7,name.com,,
 136e0a02-0b2a-459f-94b5-dc51138cd6c6,proxyfight.land,available,19.99,,44,1,11,name.com,,
 13873ef9-7f35-47ff-80e7-ce12c44d34dd,hosts.land,available,19.99,,52,18,5,name.com,,
+13b09ee5-7764-4b12-b171-8484b8b6ad5f,tech.land,resell,,,86,48,4,Porkbun LLC,07/05/2016 22:50,07/05/2027 22:50
 141c09d1-e066-4bf3-b82e-abf1be1bb804,procedures.land,available,19.99,,50,5,10,name.com,,
 141d9118-e5c5-4195-8c10-9c5e35e09e47,finalsweek.land,available,19.99,,52,1,11,name.com,,
 141eab31-9d56-4ec2-bbc9-eca8ea04eff7,surprises.land,available,19.99,,64,4,9,name.com,,
@@ -796,6 +797,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49c76773-a211-4b43-9c54-f57b14fa4bb1,gonumberone.land,available,19.99,,40,1,13,name.com,,
 4a2517ec-db0e-4a05-9e10-1d4a1da4bde0,supposeto.land,available,19.99,,52,1,10,name.com,,
 4a34f995-7c9c-4143-80bf-0ab658c2e8b3,hangwith.land,available,19.99,,70,2,9,name.com,,
+4a4249cb-be40-432f-bf87-05a73ddbb656,racing.land,premium,,,74,26,6,,,
 4a5c80e9-cf1f-4a03-86bf-813cdb16b6a0,floods.land,available,19.99,,38,6,6,name.com,,
 4a601256-3fb5-41d9-80cb-cc3ef066b76d,polled.land,available,19.99,,69,3,6,name.com,,
 4a64c603-3b77-4105-a9d3-9208f7787a04,gonegative.land,available,19.99,,66,1,11,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bb60fa8-e973-44bd-8da8-cb5c4d7244bf,inthemain.land,available,19.99,,50,1,11,name.com,,
 5bb94f4a-a5ac-4e63-ab3d-b493b46035fb,blogs.land,available,19.99,,52,21,5,name.com,,
 5bc09f52-0f1e-45a9-81ec-5183f17892b0,manyhappies.land,available,19.99,,72,1,12,name.com,,
-5bc2ff9a-89f7-458d-bbbf-a9494a7e8b69,proxybattle.land,available,19.99,,44,1,12,name.com,,
-5bc65004-e6c9-4bbb-9ea0-335dc1e5e727,mortgages.land,available,19.99,,50,16,9,name.com,,
