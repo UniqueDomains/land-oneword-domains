@@ -76,10 +76,10 @@ print(df.head())
 | trades.land      | available | $19.99    | —             | 71             | 26     | 6      | name.com         |
 | baby.land        | resell    | —         | —             | 78             | 31     | 4      | Porkbun LLC      |
 | hills.land       | premium   | $123.75   | —             | 65             | 20     | 5      | name.com         |
-| claire.land      | available | $19.99    | —             | 68             | 26     | 6      | name.com         |
+| doctors.land     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
 | marine.land      | resell    | —         | —             | 74             | 30     | 6      | Porkbun LLC      |
 | vacations.land   | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo         |
-| doctors.land     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
+| claire.land      | available | $19.99    | —             | 68             | 25     | 6      | name.com         |
 | pestcontrol.land | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
 | rocks.land       | premium   | $250      | —             | 78             | 18     | 5      | name.com         |
 | chem.land        | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
