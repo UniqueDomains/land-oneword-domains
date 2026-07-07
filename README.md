@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .land one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,027 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,027 domains · **Median ask:** $25.00 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,027 domains · **Median ask:** $26.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/land`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/land`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LAND one-word domain 
 
 ### Files
 
-- `land.csv` — public CSV extract (1,000 rows)
-- `land.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `land.csv`, public CSV extract (1,000 rows)
+- `land.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| forms.land       | available | $19.99    | —             | 54             | 28     | 5      | name.com         |
-| business.land    | resell    | —         | —             | 90             | 52     | 8      | Porkbun LLC      |
-| etc.land         | premium   | $500      | —             | 58             | 32     | 3      | name.com         |
-| backyard.land    | available | $19.99    | —             | 80             | 27     | 9      | name.com         |
-| root.land        | resell    | —         | —             | 64             | 50     | 4      | Dynadot Inc      |
-| partners.land    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com         |
-| KFC.land         | available | $54.98    | —             | 74             | 27     | 3      | namecheap        |
-| tech.land        | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC      |
-| apartments.land  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo         |
-| trades.land      | available | $19.99    | —             | 71             | 26     | 6      | name.com         |
-| events.land      | resell    | —         | —             | 68             | 37     | 6      | GoDaddy.com, LLC |
-| hills.land       | premium   | $123.75   | —             | 65             | 20     | 5      | name.com         |
-| doctors.land     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
-| baby.land        | resell    | —         | —             | 78             | 31     | 4      | Porkbun LLC      |
-| vacations.land   | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo         |
-| claire.land      | available | $19.99    | —             | 68             | 25     | 6      | name.com         |
-| marine.land      | resell    | —         | —             | 74             | 30     | 6      | Porkbun LLC      |
-| rocks.land       | premium   | $250      | —             | 78             | 18     | 5      | name.com         |
-| chem.land        | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
-| pestcontrol.land | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| BJP.land        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| domainname.land | resell    | $19.99    | —             | high           | low    | 11     | GoDaddy.com, LLC                                          |
+| aid.land        | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                  |
+| CNN.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| get.land        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| ala.land        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| hic.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| pin.land        | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC                                          |
+| axe.land        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| kgb.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| film.land       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| btw.land        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| TBD.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| geek.land       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| dew.land        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| xix.land        | available | $19.99    | $52.99        | high           | low    | 3      | name.com                                                  |
+| logo.land       | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| feb.land        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| xxi.land        | available | $19.99    | $52.99        | medium         | low    | 3      | name.com                                                  |
+| port.land       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .land extension. The set includes broad nouns, verbs, adjectives, and abstract terms, with examples such as cat.land, computer.land, etch.land, careful.land, and equal.land. For founders, the best picks are usually the names that are easy to say, easy to spell, and specific enough to feel memorable without being limiting. For investors, quality depends less on volume here and more on whether a word is clean, commercially usable, and priced rationally against likely resale demand. Watch for clear trademark issues in names tied to established brands, such as YouTube.land, and compare each name against renewal fit before deciding.
+This list of 11,027 .land domains spans short, brandable names like tech.land, tips.land, and getup.land alongside descriptive picks such as herbaltea.land and coffeewoman.land. With a $26 median ask, .land offers an accessible entry point for founders building in real estate, agriculture, travel, and outdoor niches, and for investors scanning a wide, low-cost TLD for margin potential. Because .land is a newer TLD, most names remain unregistered and available, giving early buyers first pick of clean, memorable options.
 
-- Favor clear dictionary words with strong recall
-- Check trademark exposure before treating a name as usable
-- Compare ask price against likely renewal commitment
-- Broad words can help, but vague words weaken memorability
+- 11,027 .land domains tracked, updated daily
+- $26 median ask — low-cost entry across .land
+- Short, brandable names like tech.land, tips.land
+- Descriptive picks for real estate, travel & outdoor
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
