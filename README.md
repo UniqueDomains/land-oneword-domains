@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .land one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,237 domains · **Median ask:** $15.35 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/land`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| BJP.land        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
-| domainname.land | resell    | $19.99    | —             | high           | low    | 11     | GoDaddy.com, LLC                                          |
-| aid.land        | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                  |
-| CNN.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| get.land        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| ala.land        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| hic.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| pin.land        | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC                                          |
-| axe.land        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| kgb.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| film.land       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| bay.land        | premium   | $242      | $242          | low            | low    | 3      | namesilo                                                  |
-| TBD.land        | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| geek.land       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| btw.land        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| xix.land        | available | $19.99    | $52.99        | high           | low    | 3      | name.com                                                  |
-| logo.land       | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bum.land        | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                                  |
-| xxi.land        | available | $19.99    | $52.99        | medium         | low    | 3      | name.com                                                  |
-| port.land       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| okay.land       | available | $19.99    | $52.99        | high           | low    | 4      | name.com         |
+| feel.land       | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| clean.land      | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
+| action.land     | available | $19.99    | —             | high           | medium | 6      | name.com         |
+| something.land  | available | $19.99    | —             | high           | low    | 9      | name.com         |
+| count.land      | available | $19.99    | —             | high           | low    | 5      | name.com         |
+| wrong.land      | available | $19.99    | —             | high           | low    | 5      | name.com         |
+| thick.land      | available | $19.99    | —             | high           | low    | 5      | name.com         |
+| dream.land      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| BJP.land        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| domainname.land | resell    | $19.99    | —             | high           | low    | 11     | GoDaddy.com, LLC |
+| aid.land        | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
+| CNN.land        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| get.land        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| ala.land        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| hic.land        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| pin.land        | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC |
+| axe.land        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| kgb.land        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| film.land       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAND One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
