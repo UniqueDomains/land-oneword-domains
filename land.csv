@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+e73fded9-01cb-40c3-b56c-7ece033f1013,villa.land,premium,414.2,414.2,high,low,5,spaceship,,,29/09/2026 00:41
 56d3b9bf-7881-4319-8f12-59cac1b4fd42,unaged.land,available,5.98,54.98,medium,low,6,namecheap,,,12/09/2026 00:11
 89192161-f7e6-4225-8494-74aeb8734ba3,synchronal.land,available,5.98,54.98,medium,low,10,namecheap,,,11/09/2026 06:13
 f0fbcdd8-7749-4f08-8a7d-41832ebb382b,dandified.land,available,15.99,52.99,medium,low,9,name.com,,,13/08/2026 17:01
@@ -7,7 +8,7 @@ db2b5f6c-9b15-486c-a09c-ea9807c75e3a,untapped.land,available,5.98,54.98,medium,l
 c302ea76-c3c2-426b-bcda-2c73c5903251,isosceles.land,available,5.98,54.98,medium,low,9,namecheap,,,22/08/2026 11:16
 0e5ace80-b212-4da4-a956-596b76752747,adulteress.land,available,15.99,41.99,medium,low,10,namesilo,,,17/09/2026 10:20
 c3ac1274-b1cc-432b-9c8a-ac86bc523c22,alexandra.land,available,5.98,54.98,medium,low,9,namecheap,,,27/09/2026 02:30
-61eb820f-ed7f-4118-b2bb-ce3148afe712,mainly.land,available,19.99,,high,low,6,name.com,,,
+61eb820f-ed7f-4118-b2bb-ce3148afe712,mainly.land,available,15.99,41.99,medium,low,6,namesilo,,,28/09/2026 13:52
 964ff41d-6485-400b-be93-9e7d7ac705a9,grabby.land,available,5.98,54.98,medium,low,6,namecheap,,,07/08/2026 21:58
 35923942-4988-4268-86ec-552e9514a6c2,refractory.land,available,5.98,54.98,medium,low,10,namecheap,,,18/08/2026 13:55
 e167fa93-73ef-4da2-95ba-f866b3810dd6,bullheaded.land,available,5.98,54.98,medium,low,10,namecheap,,,11/08/2026 08:30
@@ -42,8 +43,10 @@ f2e7b160-3a91-40e5-9d9e-4ef17118a8af,macmillan.land,available,15.99,41.99,high,l
 69d617a4-5d11-4e81-b65b-3beadf112a2c,spunky.land,available,5.98,54.98,high,low,6,namecheap,,,18/08/2026 00:49
 8296c654-288c-4caa-9c8e-1785b48b239f,contiguity.land,available,15.99,41.99,medium,low,10,namesilo,,,17/09/2026 08:24
 a8e17090-eaf6-4367-a4ef-023891991166,espn.land,available,5.38,33.32,high,low,4,spaceship,,,28/09/2026 08:02
+8e29f604-3b13-464b-ba13-58148ca29f69,trotsky.land,available,15,,medium,low,7,unstoppable,,,28/09/2026 19:41
 392ffe8a-3981-4faa-84e8-5e82756110e3,licenced.land,available,15.99,41.99,medium,low,8,namesilo,,,21/09/2026 15:56
 582297bb-4f69-4da9-a9d2-d978cc8b4cdc,glasses.land,available,19.99,,high,low,7,name.com,,,
+805a031f-766d-4ece-ac32-e7e90351add8,isabel.land,available,5.98,54.98,high,low,6,namecheap,,,28/09/2026 16:24
 e407c968-4193-4192-9e5c-9f4262017445,uncrowned.land,available,5.98,54.98,medium,low,9,namecheap,,,13/08/2026 08:36
 92f67766-cfaf-4f55-9730-91538d4be08e,shamed.land,available,5.98,54.98,medium,low,6,namecheap,,,14/08/2026 10:25
 4f6cfb15-fb0f-45a5-8932-73736f9b7541,axseed.land,available,15.99,41.99,medium,low,6,namesilo,,,21/09/2026 10:31
@@ -53,7 +56,7 @@ d375dbf2-b44b-4945-887e-1e20c605f1c6,nicely.land,available,5.98,54.98,high,low,6
 94fcc7bc-f6fc-4765-8952-fb7e10aba556,endow.land,available,15.99,41.99,high,low,5,namesilo,,,24/09/2026 23:37
 7e5230be-b962-4804-8350-e33209b77645,deluge.land,available,15.99,41.99,medium,low,6,namesilo,,,24/09/2026 16:03
 5841bdab-778d-4147-ad66-66e420a72135,criticism.land,available,19.99,,high,low,9,name.com,,,
-84044ac8-1830-402b-ab52-b2fd9c15e741,arm.land,premium,242,242,high,medium,3,namesilo,,,
+84044ac8-1830-402b-ab52-b2fd9c15e741,arm.land,premium,242,242,high,medium,3,namesilo,,,28/09/2026 22:04
 8a5ff050-e4ff-43a4-801d-38d27420812c,unresolved.land,available,5.98,54.98,medium,low,10,namecheap,,,14/08/2026 12:57
 af0bb0c7-29a7-4dde-8701-63655d08b282,decision.land,available,5.98,54.98,high,low,8,namecheap,,,24/09/2026 17:06
 f22f4ff4-5c9d-415b-be6d-bfa429602151,modeller.land,available,19.99,,high,low,8,name.com,,,
@@ -69,23 +72,27 @@ b24b02bb-9a30-4594-9a0e-5bd973bbf91e,faustian.land,available,5.98,54.98,medium,l
 75fb561d-eb41-4507-869f-6e48770fc2af,disparity.land,available,19.99,,medium,low,9,name.com,,,
 d69f7a15-a4b4-4d6c-88b6-83833b0107c1,calder.land,available,5.98,54.98,high,low,6,namecheap,,,18/09/2026 05:48
 3dbad43d-85c0-4b4f-90b0-59c0ed02e88b,pendant.land,available,5.98,54.98,high,low,7,namecheap,,,08/09/2026 14:12
-d2ccd729-6cf3-4a92-9288-e26d7dd64d94,pill.land,available,19.99,,high,low,4,name.com,,,
+d2ccd729-6cf3-4a92-9288-e26d7dd64d94,pill.land,available,5.38,33.32,medium,low,4,spaceship,,,28/09/2026 21:31
 1fb397ce-d9d5-4b90-bdfd-1630b84e0a22,wedded.land,available,5.98,54.98,high,low,6,namecheap,,,13/09/2026 09:30
 a5a694f9-a030-4122-9896-a39e27f791b5,cow.land,resell,,,high,low,3,"GoDaddy.com, LLC",31/05/2025 21:24,31/05/2027 21:24,26/09/2026 05:18
 967103db-b7ad-4d85-9792-05e8daf5a7a6,mortified.land,available,5.98,54.98,medium,low,9,namecheap,,,18/08/2026 20:17
 233afb30-31b0-4066-8af5-f353170762a1,fickle.land,available,5.98,54.98,medium,low,6,namecheap,,,17/08/2026 12:48
 c70e0582-a40a-4d55-b559-74f6c7325830,urgent.land,available,5.98,54.98,high,low,6,namecheap,,,27/09/2026 06:05
+d169a364-3446-4356-8414-7eab8ac8e970,ventilation.land,available,8.78,34.46,medium,low,11,dynadot,,,29/09/2026 04:52
+04d8f7a0-da3e-44b6-b906-d2b186f189a3,superficial.land,available,15,,medium,low,11,unstoppable,,,28/09/2026 20:58
 f85a42f7-51c0-4506-bf06-cef73269cf8d,grapy.land,available,5.98,54.98,medium,low,5,namecheap,,,20/08/2026 18:07
 e145221e-ad0f-4acf-8fed-564f7a2fee22,voluptuous.land,available,5.98,54.98,high,low,10,namecheap,,,10/08/2026 20:39
 fb988358-751d-4410-bddf-780f90547703,swastika.land,available,19.99,,medium,low,8,name.com,,,
 7f51ca98-5458-4da2-aac8-1edb1e793777,eliza.land,available,19.99,,high,low,5,name.com,,,
 7d9702df-c915-4061-87b8-3cde164937a0,received.land,available,15.99,41.99,high,low,8,namesilo,,,27/09/2026 10:43
 b17e524e-e3f4-4086-b08d-2805bb36d7b7,kidnapping.land,available,15.99,41.99,medium,low,10,namesilo,,,25/09/2026 08:11
+d0409a5a-f282-4604-8aad-95b376228b3a,bowel.land,available,15.99,41.99,medium,low,5,namesilo,,,29/09/2026 06:08
 b73c8e65-e080-40dc-9786-9140c3de49cd,wolfgang.land,available,5.98,54.98,high,low,8,namecheap,,,25/09/2026 15:09
 65bfae96-a363-4df8-92e0-f6f5149c07a2,debar.land,available,15.99,52.99,medium,low,5,name.com,,,22/09/2026 03:43
 a9928628-4587-4778-9db3-7b16b709e428,fractious.land,available,5.98,54.98,medium,low,9,namecheap,,,18/08/2026 13:53
 79748312-04db-4dd7-b011-7435563c37af,backgrounds.land,available,15.99,41.99,medium,low,11,namesilo,,,20/09/2026 22:12
 4341ef58-0593-4f21-a52d-db89b81a1774,might.land,available,19.99,,high,low,5,name.com,,,
+9597747f-cd39-4b7d-a853-5ff3a9d0a7db,zealand.land,available,8.75,33.47,medium,low,7,porkbun,,,29/09/2026 02:11
 1276bb95-0ef4-4711-90fb-2cacee66f590,strasbourg.land,available,15.99,41.99,medium,low,10,namesilo,,,27/09/2026 15:59
 abbd16bc-acc7-4410-ba1e-c84949559f6b,types.land,available,15.99,41.99,high,low,5,namesilo,,,18/09/2026 16:19
 3e9cf892-18b3-421f-b872-acf824624e6b,remnant.land,available,5.98,54.98,high,low,7,namecheap,,,22/08/2026 22:50
@@ -94,18 +101,23 @@ d5ca8a0c-1ace-4355-a601-c8e6eb1c847d,chose.land,available,19.99,,high,low,5,name
 081fca2d-c502-46d8-a681-91cbd844a300,operative.land,available,5.98,54.98,high,low,9,namecheap,,,04/09/2026 16:29
 418fcc3f-d755-4f64-9330-77b89208d1e9,fiendish.land,available,5.98,54.98,medium,low,8,namecheap,,,14/08/2026 01:31
 b76ea158-2dfb-4594-8728-91e65e66dc09,giacometti.land,available,15.99,41.99,high,low,10,namesilo,,,18/09/2026 02:46
+5e5fa202-d488-4521-89da-8040fdfbee75,fortunes.land,available,15,,medium,low,8,unstoppable,,,29/09/2026 05:22
 ea833ad8-9e84-482a-9d9d-8e7a07c0e56c,tiered.land,available,5.98,54.98,medium,low,6,namecheap,,,11/09/2026 15:49
+ec89d42d-a0fd-4280-9163-f4f138121478,respectable.land,available,32.2,32.2,high,low,11,cloudflare,,,28/09/2026 11:23
 5e91a25a-4176-4402-a732-f8c651745538,alary.land,available,5.98,54.98,medium,low,5,namecheap,,,
 bd21d452-0902-482a-8f96-9e1741d37cb7,biddable.land,available,5.98,54.98,medium,low,8,namecheap,,,
 7bebf041-4bff-4bc6-a9a0-70a2d5fdede4,scathing.land,available,5.98,54.98,medium,low,8,namecheap,,,09/09/2026 22:57
 defa3be3-2c9c-4087-96b4-574108c46e18,ahmed.land,premium,38.94,38.94,high,low,5,namesilo,,,25/09/2026 14:32
 c8c3aea5-1e4f-4d08-bbca-a9d9fc8d2e1d,nineteen.land,available,15.99,41.99,high,low,8,namesilo,,,21/09/2026 12:05
+814a6a04-91f5-4ae2-bf5d-49145d8ea3b3,realizes.land,available,5.38,33.32,medium,low,8,spaceship,,,29/09/2026 05:59
 6e42b235-a368-4d16-958e-a06ef5d07883,murphy.land,premium,242,242,high,low,6,namesilo,,,25/09/2026 07:49
 41255c7f-1ef8-486f-9989-22dd14b69521,chaldean.land,available,5.98,54.98,medium,low,8,namecheap,,,12/08/2026 01:26
 fa1017da-78ed-4079-b1a9-234e70b8240d,dismantled.land,available,5.98,54.98,medium,low,10,namecheap,,,14/08/2026 01:22
 022941c8-4e5e-48cc-b49b-f51207bb14ed,betimes.land,available,5.98,54.98,medium,low,7,namecheap,,,13/09/2026 23:59
 7bc8f545-380f-4ed5-a8c6-df85c8ddb4a5,formalize.land,available,19.99,,high,low,9,name.com,,,
 fffd3c57-6774-42bd-9271-9f9ae40f4d95,flecked.land,available,5.98,54.98,medium,low,7,namecheap,,,14/08/2026 16:30
+5e9af055-d28e-422d-ae6b-6362162eb1fb,displayed.land,available,15,,medium,low,9,unstoppable,,,28/09/2026 21:19
+b494b1ab-f46e-49df-abd9-300d5900bc8a,fannie.land,available,5.38,33.32,medium,low,6,spaceship,,,28/09/2026 12:06
 d04dce5c-8d87-4390-954f-2e4af8bf5faf,subscribed.land,available,5.98,54.98,high,low,10,namecheap,,,11/09/2026 00:41
 b0fb26c9-fa7b-4792-92d4-204636aea6d8,stingy.land,available,5.98,54.98,medium,low,6,namecheap,,,24/08/2026 18:08
 69dfd251-7727-45c1-b397-876e17b937ce,cathodic.land,available,5.98,54.98,medium,low,8,namecheap,,,11/08/2026 21:56
@@ -126,6 +138,7 @@ e7050ea9-8280-4d68-a593-abb065af3c6e,lighting.land,premium,242,242,high,low,8,na
 8dc5609f-3597-4024-96f0-3ab71c299287,liquified.land,available,5.98,54.98,medium,low,9,namecheap,,,23/08/2026 22:47
 a4325870-11df-4e03-bfc1-3ac894c73333,expires.land,available,15.99,41.99,medium,low,7,namesilo,,,20/09/2026 13:50
 4eef0eb7-e4dd-4244-acf4-f0d12e794015,tearing.land,available,5.98,54.98,medium,low,7,namecheap,,,11/09/2026 09:42
+11f3fcb3-eb33-4df4-b3e8-83fa4d37a6c4,exams.land,available,8.78,34.46,medium,low,5,dynadot,,,28/09/2026 23:32
 2c24c461-ef21-4ad6-9781-c1a64a065a74,assurgent.land,available,5.98,54.98,medium,low,9,namecheap,,,07/08/2026 08:26
 9a0cc63d-5723-46de-aade-f8381afb0142,learnt.land,available,19.99,,medium,low,6,name.com,,,
 4719a28b-717d-4966-9012-21356f5f340f,shocking.land,available,5.98,54.98,medium,low,8,namecheap,,,24/09/2026 11:12
@@ -134,12 +147,14 @@ d4094243-3cf5-43f0-8369-890e82fc2598,batavia.land,available,5.38,33.32,high,low,
 e1d1fce9-6419-4a90-902c-0e3878628011,gratuitous.land,available,5.98,54.98,medium,low,10,namecheap,,,13/08/2026 03:14
 525d0ec2-520e-47ac-b8f7-f714d0557452,rita.land,available,5.98,54.98,high,low,4,namecheap,,,25/09/2026 19:01
 7f0635ab-41f1-40bb-9ed7-d06bfab2187c,saviour.land,available,15.99,41.99,high,low,7,namesilo,,,24/09/2026 14:50
+b9ffc0f2-76b8-442f-96c0-5c5303efe002,gardening.land,available,15.99,41.99,high,low,9,namesilo,,,28/09/2026 14:15
 6465893e-3e30-4963-b29d-db42bf498410,baseborn.land,available,5.98,54.98,low,low,8,namecheap,,,08/08/2026 21:34
 98865c94-8692-49aa-9dc4-7d8e75ee357b,tactless.land,available,5.98,54.98,medium,low,8,namecheap,,,11/09/2026 07:02
 65ba3266-5499-4e97-9676-d7593ba4c7a5,consistent.land,available,5.98,54.98,high,low,10,namecheap,,,12/08/2026 16:01
 5090d3b2-670a-4d39-bfe1-ea6b01b225ac,facetious.land,available,5.98,54.98,medium,low,9,namecheap,,,08/08/2026 14:39
 7cdc437f-fc9f-40a8-a186-0deb5e2ef7e5,untrustworthy.land,available,19.99,,medium,low,13,name.com,,,
 92a6a73d-285f-4e35-b3c6-acf5e91b40a6,aback.land,available,5.98,54.98,high,low,5,namecheap,,,13/09/2026 16:07
+f69c02cc-7e55-4962-a45c-57002c9452ea,helena.land,available,8.78,34.46,high,low,6,dynadot,,,28/09/2026 13:38
 68b0abff-5504-42b7-9942-182f332a25e3,astute.land,available,15.99,41.99,high,low,6,namesilo,,,22/09/2026 10:35
 4e528e57-c23c-4e45-b76a-eaf2dc20a648,springless.land,available,5.98,54.98,low,low,10,namecheap,,,10/09/2026 16:51
 a5511ded-94b7-4281-aa77-500d9b2a499a,stephenson.land,available,15.99,41.99,high,low,10,namesilo,,,25/09/2026 06:30
@@ -151,6 +166,7 @@ f6e9f436-28fb-470f-ae99-478cc1ebdbc3,mongoloid.land,available,5.98,54.98,medium,
 78ef5a04-6cea-4978-bee8-6465c8aa8c8a,bread.land,available,5.98,54.98,high,low,5,namecheap,,,08/09/2026 03:15
 90da26d3-6cdd-4942-914e-f4701105f8e6,sheepshead.land,available,15.99,41.99,medium,low,10,namesilo,,,20/09/2026 02:29
 d72150bf-04bc-4883-9dc6-ce846b44c4da,cyberspace.land,resell,,,high,low,10,"GoDaddy.com, LLC",24/04/2021 15:07,24/04/2027 15:07,28/09/2026 08:02
+c1257e15-05a2-46aa-8541-dc1f40f04669,purity.land,available,8.78,34.46,high,low,6,dynadot,,,28/09/2026 15:09
 a73f1b87-d120-4265-a4d8-e7a944d88c55,descent.land,available,5.98,54.98,high,low,7,namecheap,,,08/09/2026 13:07
 bf249300-95b7-45ac-8b12-e06dd93610ef,endowment.land,available,19.99,,high,low,9,name.com,,,
 3ccb1b2f-72b1-4554-b4e3-7d262f84709f,dastard.land,available,15.99,52.99,medium,low,7,name.com,,,13/08/2026 18:32
@@ -177,7 +193,7 @@ dcc0bc5f-f852-461c-acdf-dbebc1926a76,usernames.land,available,15.99,41.99,medium
 73f3b12e-e747-457e-bdb6-40816f6de150,copies.land,available,15.99,41.99,medium,low,6,namesilo,,,27/09/2026 09:16
 67a96138-d3e6-4a29-8dc0-c04a957444e6,annotator.land,available,15.99,41.99,medium,low,9,namesilo,,,19/09/2026 10:48
 243c04c6-a5f6-4f1a-afd4-01b6fd5535a0,wilfred.land,available,15.99,41.99,medium,low,7,namesilo,,,28/09/2026 07:49
-c55d5536-f8b1-458f-8922-ef57f75e974b,cameraman.land,available,19.99,,high,low,9,name.com,,,
+c55d5536-f8b1-458f-8922-ef57f75e974b,cameraman.land,available,5.38,33.32,high,low,9,spaceship,,,29/09/2026 06:02
 840abd8a-3f61-490a-8fd3-7efa884a51d9,arability.land,available,15.99,41.99,high,low,9,namesilo,,,19/09/2026 23:32
 2b960c2e-c256-47eb-a944-9463ee0c9716,pectoral.land,available,5.98,54.98,medium,low,8,namecheap,,,08/09/2026 11:58
 4f6e1f81-949b-4f9f-bfc9-e377a2e5a074,tractable.land,available,5.98,54.98,medium,low,9,namecheap,,,24/08/2026 15:10
@@ -187,8 +203,8 @@ fa952b7f-ad3c-4bfc-ac91-d7b6b79ac8c4,invincible.land,available,15.99,41.99,high,
 dc6e282b-5190-4497-9ec3-a5921d1ebbc6,allusion.land,available,15.99,41.99,high,low,8,namesilo,,,18/09/2026 12:15
 21e7fde9-aed3-4867-a872-21bf865bb919,saddam.land,available,15.99,41.99,medium,low,6,namesilo,,,25/09/2026 23:11
 c26d7c15-69bc-454f-939f-d1b60d8936c9,artaxerxes.land,available,5.98,54.98,medium,low,10,namecheap,,,20/09/2026 10:06
-f5bceb3a-417a-4488-9a79-c6d07bbe64fc,swiftly.land,available,19.99,,high,low,7,name.com,,,
-4fe0dee3-74f3-4fff-a04c-49e48a33def2,wagering.land,available,15.99,41.99,high,low,8,namesilo,,,25/09/2026 02:56
+f5bceb3a-417a-4488-9a79-c6d07bbe64fc,swiftly.land,available,15.99,41.99,high,low,7,namesilo,,,28/09/2026 14:53
+4fe0dee3-74f3-4fff-a04c-49e48a33def2,wagering.land,available,8.75,33.47,medium,low,8,porkbun,,,28/09/2026 11:01
 11326538-ed88-4eac-ab29-b0b0bda59e63,inwards.land,available,5.98,54.98,high,low,7,namecheap,,,21/08/2026 23:32
 15564e2c-0a5e-4b66-9feb-1aa42669f09b,attester.land,available,15.99,41.99,medium,low,8,namesilo,,,21/09/2026 01:41
 15a65f69-2141-4aaf-bbaf-82915fd6d4e1,likeable.land,available,5.98,54.98,high,low,8,namecheap,,,23/08/2026 06:11
@@ -226,6 +242,7 @@ d4ec28ed-c3b9-4d0e-a82b-119760f245fe,willy.land,available,5.98,54.98,medium,low,
 8722741a-d4ed-4671-85ff-bd5216c5c3bf,skimpy.land,available,5.98,54.98,medium,low,6,namecheap,,,10/09/2026 09:36
 f5c91166-bbd1-4840-8dd7-6bc82c73dc03,anagoge.land,available,15.99,41.99,medium,low,7,namesilo,,,19/09/2026 01:27
 196dd0d1-37be-44a7-bd3a-028168f75d9b,alienate.land,available,5.98,54.98,medium,low,8,namecheap,,,
+85f2e974-7b8c-47c4-af97-32b50da89426,burglary.land,available,5.98,54.98,medium,low,8,namecheap,,,29/09/2026 00:17
 14592b97-06dd-4db3-9425-b00796d7b3ff,creaky.land,available,5.98,54.98,medium,low,6,namecheap,,,06/08/2026 22:59
 2d6c2430-5cac-4cc4-8cfc-f1cfcad96c7d,deputy.land,available,19.99,,high,low,6,name.com,,,
 071754aa-d8ba-41ed-820e-9b1d43003309,astatine.land,available,15.99,41.99,medium,low,8,namesilo,,,20/09/2026 16:55
@@ -271,6 +288,7 @@ c8bd86d1-0d9e-425c-b890-241061414245,statue.land,available,15.99,41.99,high,low,
 c9236dfc-c074-4b17-aba7-c72687dab9cf,adolescent.land,available,5.98,54.98,high,low,10,namecheap,,,21/09/2026 19:03
 cf29e4b4-2bf5-4e71-896b-646d17c56661,olefin.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 08:30
 1ac4eb6f-5687-4895-ac6a-ed3f3e6fd531,tramontane.land,available,5.98,54.98,medium,low,10,namecheap,,,11/09/2026 18:48
+e0056a9c-cd83-4044-82a5-2f460f974919,tumor.land,available,8.78,34.46,medium,low,5,dynadot,,,28/09/2026 10:32
 4345b4f9-9a96-4ab7-8e72-938f972b1762,banshie.land,available,15.99,41.99,medium,low,7,namesilo,,,22/09/2026 03:10
 93ea19b4-0c58-48da-98c0-e00654db8312,complete.land,available,5.98,54.98,high,low,8,namecheap,,,19/09/2026 19:02
 75c46539-cd09-443c-9cfc-2a8dfd9b7b13,ossicular.land,available,5.98,54.98,medium,low,9,namecheap,,,04/09/2026 18:22
@@ -290,11 +308,13 @@ a32ea910-a58b-480b-ba1d-79bdf8ef35dd,loon.land,available,15.99,41.99,high,low,4,
 ee8db462-58dd-46ff-8823-57fb1e4a50bb,balmoral.land,available,15.99,41.99,high,low,8,namesilo,,,21/09/2026 23:39
 0a87afb5-d335-4087-82f7-e01aaa28c1d9,carnation.land,available,5.98,54.98,high,low,9,namecheap,,,11/08/2026 19:26
 5c6b1772-9f67-4916-b691-d508e67bdfea,recruited.land,available,15.99,41.99,medium,low,9,namesilo,,,18/09/2026 00:53
+ed163a18-d466-468b-a7b3-b112ade0ac7c,furman.land,available,32.2,32.2,medium,low,6,cloudflare,,,29/09/2026 04:35
 56297531-ee37-4418-bc7f-fe3230154d6b,titanium.land,available,15.99,41.99,high,low,8,namesilo,,,20/09/2026 22:34
 fb2d9f43-7ff8-425e-8c24-9d5aa65781af,biretta.land,available,15.99,41.99,medium,low,7,namesilo,,,23/09/2026 10:06
 52b1442d-6ffd-4f89-b9f2-99326513915a,nappy.land,available,5.98,54.98,high,low,5,namecheap,,,18/08/2026 16:10
 5158de25-b27e-4d0a-8dce-943d87d8dc4b,aalii.land,available,15.99,41.99,medium,low,5,namesilo,,,16/09/2026 13:12
-d6bda3bf-1f68-46de-853f-0000b54bdd00,woman.land,premium,500,,high,low,5,name.com,,,
+7cc4ab1a-0db9-421f-9be3-02a2665cba37,interviews.land,available,15.99,41.99,medium,low,10,namesilo,,,28/09/2026 09:06
+d6bda3bf-1f68-46de-853f-0000b54bdd00,woman.land,premium,400.5,,high,low,5,unstoppable,,,28/09/2026 18:54
 5b061291-173a-46fe-8d66-a0b1296d0bb7,gregorian.land,available,5.98,54.98,high,low,9,namecheap,,,20/08/2026 19:58
 b1b32b99-1a67-46b1-9254-4dc27c0c5897,venereal.land,available,5.98,54.98,medium,low,8,namecheap,,,18/08/2026 21:42
 7892bea1-6b87-40a5-9029-94a73bbb7120,chilean.land,premium,118.8,118.8,high,low,7,namesilo,,,12/08/2026 05:15
@@ -302,6 +322,7 @@ eca01a5f-ac39-488d-a702-572d98af99e4,winking.land,available,5.98,54.98,high,low,
 16ece9c5-7bab-4923-ba13-cbe293660248,excision.land,available,15.99,41.99,medium,low,8,namesilo,,,16/09/2026 16:06
 ecbc5cd9-8f15-4d76-8331-488eff88fa16,primly.land,available,5.98,54.98,medium,low,6,namecheap,,,15/09/2026 21:26
 58c21467-ea9f-426d-b1b2-d3bca08a54ad,horseback.land,available,5.98,54.98,high,low,9,namecheap,,,21/09/2026 23:38
+8ae22e4e-3b30-4ea2-84d3-adcdbe1fdb66,delia.land,available,5.38,33.32,medium,low,5,spaceship,,,28/09/2026 21:49
 62fad506-dff3-441d-ad57-7916f7169a21,precursors.land,available,15.99,41.99,medium,low,10,namesilo,,,21/09/2026 00:35
 24d1a870-ec4c-43ad-9368-76c939051af2,http.land,available,,,high,high,4,,,,
 f58b6dff-b63e-41b3-9d71-c41e6ab89bd9,affirmed.land,available,15.99,52.99,high,low,8,name.com,,,17/09/2026 14:27
@@ -315,6 +336,7 @@ bf710e2b-520a-4e4b-84c0-fcf1cb114d19,tomato.land,available,19.99,,high,low,6,nam
 8d7dd411-dc6b-43ee-9938-d4f90c356a13,conduction.land,available,19.99,,high,low,10,name.com,,,
 44cdab18-bbd7-4382-82e9-5784d9d80d71,army.land,premium,118.8,118.8,high,low,4,namesilo,,,20/09/2026 07:50
 1244749e-4939-4ac7-8ade-9b232608940d,technicality.land,available,19.99,,high,low,12,name.com,,,
+1e8a5ab2-1d78-4e27-9358-e4a10d20a23c,idf.land,available,15.99,41.99,high,low,3,namesilo,,,28/09/2026 14:30
 6f68c32b-7e79-44a8-a3a0-8640e6a63bb4,barroom.land,available,5.98,54.98,high,low,7,namecheap,,,22/09/2026 03:34
 e3930015-10c6-4b43-8ab6-6a93849308f2,impractical.land,available,19.99,,medium,low,11,name.com,,,
 83cf46a3-d896-4577-a415-58d947b4614e,judgmental.land,available,5.98,54.98,medium,low,10,namecheap,,,22/08/2026 14:10
@@ -322,10 +344,12 @@ e3930015-10c6-4b43-8ab6-6a93849308f2,impractical.land,available,19.99,,medium,lo
 4ef7c960-9338-4b0d-ac79-2316ad5bc5a3,appointive.land,available,5.98,54.98,medium,low,10,namecheap,,,06/08/2026 07:16
 065b9f1a-2541-434f-b084-7629171c4806,ritzy.land,available,5.98,54.98,high,low,5,namecheap,,,09/09/2026 18:04
 2a7f248a-8894-4b3d-9a70-6dda56aadaa0,annaba.land,available,15.99,41.99,medium,low,6,namesilo,,,19/09/2026 10:03
+79071549-0ad1-48ae-ad26-7b0c6a67e0e5,osman.land,available,8.75,33.47,medium,low,5,porkbun,,,28/09/2026 22:06
 646c22b6-c31a-4e96-b8e8-a355065dc9e6,argument.land,available,15.99,41.99,high,low,8,namesilo,,,20/09/2026 04:49
 ad67df04-8505-4d8a-8d78-537679070760,imitation.land,available,5.98,54.98,high,low,9,namecheap,,,18/08/2026 00:14
 e4542c67-c7ff-4971-bf7e-e6a7d6a198a4,senseless.land,available,5.98,54.98,medium,low,9,namecheap,,,03/09/2026 17:48
 f17768a2-c6e9-475a-9312-713d58e707c9,craniate.land,available,5.98,54.98,medium,low,8,namecheap,,,13/09/2026 04:37
+c873b554-7956-47b8-98c7-4b463383f48e,murderers.land,available,5.98,54.98,low,low,9,namecheap,,,28/09/2026 23:41
 dc11c1af-a26b-4757-8977-fbfcfd33f918,oblong.land,available,5.98,54.98,medium,low,6,namecheap,,,03/09/2026 23:48
 6001de93-f772-4b93-9973-41dffcf18600,soh.land,available,5.98,54.98,medium,low,3,namecheap,,,16/09/2026 03:36
 376c0f76-515b-49f4-aea7-ea46701e58fd,perez.land,premium,128.7,128.7,high,low,5,namecheap,,,25/09/2026 15:41
@@ -337,8 +361,8 @@ dc11c1af-a26b-4757-8977-fbfcfd33f918,oblong.land,available,5.98,54.98,medium,low
 3a684615-26a2-4c48-aae2-fad552c3c81d,shoal.land,available,5.98,54.98,high,low,5,namecheap,,,10/09/2026 05:46
 5d09ea56-f0ae-4e4a-8a0e-a1a0e2a19f82,ferric.land,available,5.98,54.98,medium,low,6,namecheap,,,18/08/2026 02:07
 13699bdc-48c3-406e-bdab-4f6009f284ba,compulsive.land,available,5.98,54.98,high,low,10,namecheap,,,12/08/2026 19:40
-badacd0a-4e62-414e-935e-0c1dc148232f,pirate.land,available,19.99,,high,low,6,name.com,,,
 e58fc85b-48d2-40e9-9358-43e40cad234c,schoolwide.land,available,5.98,54.98,medium,low,10,namecheap,,,09/09/2026 23:18
+e363301e-63b2-4a35-ad2d-bbaa247694ed,pornography.land,available,5.38,33.32,medium,low,11,spaceship,,,28/09/2026 12:37
 cce96efe-35ad-4a09-8f2d-c296a630613c,peanuts.land,available,15.99,41.99,high,low,7,namesilo,,,28/09/2026 02:53
 5b63fd46-bea2-4780-a0d0-813dd055cea5,areal.land,available,5.98,54.98,medium,low,5,namecheap,,,06/08/2026 17:21
 4ec00406-adc4-40e9-a6ff-30e4207ef53b,baronage.land,available,5.98,54.98,medium,low,8,namecheap,,,22/09/2026 07:18
@@ -347,24 +371,29 @@ b9330881-341c-48f5-9b59-c3a4047b3af4,shoulder.land,available,15.99,41.99,high,lo
 8da05ac3-232b-4536-bc79-c70252626952,billie.land,available,15.99,41.99,medium,low,6,namesilo,,,28/09/2026 07:55
 b1cc1f81-b707-4c73-8a1b-8351909f3079,captivated.land,available,5.98,54.98,medium,low,10,namecheap,,,09/08/2026 09:52
 7f06c3c7-0db1-40d6-8cad-bc27929d627b,ovarian.land,available,5.98,54.98,medium,low,7,namecheap,,,04/09/2026 19:55
+92dbe8a5-add5-457e-8d48-b3980699e82c,daley.land,available,15.99,41.99,high,low,5,namesilo,,,28/09/2026 11:42
 e5de00de-ac60-461b-bc6e-d32de8ad9e7c,fiona.land,available,5.38,33.32,high,low,5,spaceship,,,28/09/2026 03:47
 6e948e7d-2d3d-43fc-9950-180d73276cfb,ghosts.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 22:14
+8fbb5373-52fe-42c7-8f43-0efab8d2d51f,whistling.land,available,5.38,33.32,medium,low,9,spaceship,,,28/09/2026 20:47
 4eca960e-4af0-4838-baef-1a38b5759080,abscessed.land,available,5.98,54.98,medium,low,9,namecheap,,,
 14c254b6-7fc6-4726-9b9d-0d32da5711b9,vaccination.land,available,19.99,,high,low,11,name.com,,,
 2d000606-cef5-4ba8-be96-4925d09b3192,angioma.land,available,15.99,41.99,medium,low,7,namesilo,,,19/09/2026 06:14
 ae3648be-bbf8-419a-ab1c-9d1068286bb4,moonstruck.land,available,5.98,54.98,medium,low,10,namecheap,,,24/08/2026 11:18
 75ac693f-b506-4b74-bfd8-03e3cac43acb,disjoint.land,available,5.98,54.98,medium,low,8,namecheap,,,14/08/2026 11:09
 8b9563eb-a4e6-41f4-83dc-da842ec9c94f,illiteracy.land,available,15.99,41.99,medium,low,10,namesilo,,,19/09/2026 01:54
+3ea6c115-ba1a-453f-a869-797bd225d01e,encouragement.land,available,15.99,41.99,medium,low,13,namesilo,,,28/09/2026 22:35
 3a3f0b07-e235-4436-a55f-912d89ef5c44,allometric.land,available,5.98,54.98,medium,low,10,namecheap,,,
 2df9c0d9-8e7e-4bfe-adfa-48d7e6393752,nagging.land,available,5.98,54.98,medium,low,7,namecheap,,,03/09/2026 12:41
 e9a3aa19-73c1-4c19-971d-30414f33e0c2,adit.land,available,15.99,41.99,medium,low,4,namesilo,,,17/09/2026 08:21
 791ad8a7-323d-4aaa-8070-224d027e64d4,garrett.land,available,15.99,41.99,high,low,7,namesilo,,,25/09/2026 14:29
 d5556369-1867-4cf8-a3e7-568021447dab,paraguayan.land,premium,38.94,38.94,medium,low,10,namesilo,,,08/09/2026 00:55
 0cf4f76f-fcd9-4b48-aacb-90ea7ed7fb75,stretchy.land,available,5.98,54.98,medium,low,8,namecheap,,,10/09/2026 22:32
+e44aa8d5-481c-4224-a729-3c4125493760,debra.land,available,5.38,33.32,medium,low,5,spaceship,,,28/09/2026 16:29
 9e982446-d8a3-4763-999c-766b65e3e5a4,apprenticeship.land,available,15.99,41.99,high,low,14,namesilo,,,28/09/2026 02:47
 eab04955-bece-4848-ada6-26d2bed69069,basque.land,available,15.99,41.99,medium,low,6,namesilo,,,22/09/2026 11:41
 58a79c8b-f5ee-43eb-8cf6-fd5e7cd202c5,medals.land,available,19.99,,high,low,6,name.com,,,
 e70c9146-7adb-4305-80ba-3340c9d441db,ferned.land,available,5.98,54.98,medium,low,6,namecheap,,,18/08/2026 01:58
+d651b3de-7aba-4be6-a1ed-cf889517965a,strap.land,available,15.99,41.99,high,low,5,namesilo,,,28/09/2026 10:12
 fbf97000-618a-461b-b4e3-97ccaa16d384,arabis.land,available,5.98,54.98,medium,low,6,namecheap,,,19/09/2026 23:33
 07e2b60e-f237-4a70-8005-63c31f9f8dab,exercising.land,available,19.99,,high,low,10,name.com,,,
 db1660d2-c9be-4d48-b96d-a3608901d5ce,chilli.land,available,5.98,54.98,high,low,6,namecheap,,,12/08/2026 05:33
@@ -374,6 +403,7 @@ db1660d2-c9be-4d48-b96d-a3608901d5ce,chilli.land,available,5.98,54.98,high,low,6
 377cf84f-49f6-4e79-8dc5-d5144504f43c,environmentally.land,available,19.99,,medium,low,15,name.com,,,
 68dced05-583b-4461-afe3-4149946b53df,pens.land,available,15.99,41.99,medium,low,4,namesilo,,,20/09/2026 04:15
 8c7bd209-5348-4990-bf94-265d264ac6f1,desktops.land,available,15.99,41.99,medium,low,8,namesilo,,,20/09/2026 12:27
+01ec7591-394a-4639-9844-6918106f201b,interaction.land,available,15.99,41.99,high,low,11,namesilo,,,29/09/2026 04:54
 37aeb689-f827-44c7-a261-632449b158e4,dishonor.land,available,19.99,,medium,low,8,name.com,,,
 79934d63-91e1-4b1e-8de1-a9f5754af71a,crowley.land,available,15.99,41.99,medium,low,7,namesilo,,,27/09/2026 01:51
 3acf7c00-93d0-4875-bc7f-427b965b62bc,niece.land,available,19.99,,high,low,5,name.com,,,
@@ -394,6 +424,7 @@ fb1c41e2-592d-46ec-82fa-1b2431876b82,sectional.land,available,5.98,54.98,medium,
 3782c366-3ccd-450a-890c-bf7e308e9f05,pendulous.land,available,5.98,54.98,medium,low,9,namecheap,,,12/08/2026 00:50
 376ae642-24d7-4686-be9e-467cc854846c,warmly.land,available,5.98,54.98,high,low,6,namecheap,,,13/09/2026 08:17
 1c55d5a9-cbaf-492b-9a3f-a1451151d3f6,barde.land,available,15.99,41.99,medium,low,5,namesilo,,,22/09/2026 05:12
+c35b0098-881d-432d-ae97-963c0a41b5dd,constance.land,available,5.38,33.32,medium,low,9,spaceship,,,28/09/2026 18:26
 b733ae55-2467-4405-8de2-31cb437ecd74,glowing.land,available,5.98,54.98,high,low,7,namecheap,,,20/08/2026 15:08
 c1d9024a-8bd4-4375-b8ab-f8bb9992f3ed,ribbing.land,available,5.98,54.98,medium,low,7,namecheap,,,11/09/2026 10:01
 0b510e8d-271e-4cf5-9eb2-4749c305c14d,ingram.land,available,15.99,41.99,medium,low,6,namesilo,,,26/09/2026 03:39
@@ -412,6 +443,7 @@ a961fca4-637e-4822-a6d4-368a3db5d6f8,positively.land,available,5.98,54.98,high,l
 7ff5697c-8d23-4f9b-b4ee-f2b39fd1ca8c,bessemer.land,available,15.99,41.99,high,low,8,namesilo,,,23/09/2026 10:28
 bde437fd-c429-4503-99f5-4c37dc7b3293,shear.land,available,19.99,,medium,low,5,name.com,,,
 2f452bdc-f065-46ee-838e-9027f9821f6f,haply.land,available,5.98,54.98,medium,low,5,namecheap,,,14/09/2026 04:36
+3e3a8ffe-266c-484c-bf5b-4a35ce6da1cc,hamlet.land,available,32.2,32.2,high,low,6,cloudflare,,,28/09/2026 18:50
 aebc0915-0b7a-4527-9ecf-4837c24f666c,muffled.land,available,5.98,54.98,medium,low,7,namecheap,,,03/09/2026 10:26
 dc84a5d8-7980-48b7-9353-163d53e78f19,mcnamara.land,available,15.99,41.99,medium,low,8,namesilo,,,27/09/2026 08:09
 404182a2-a795-4743-a7f1-75513973a1a8,answerer.land,available,15.99,41.99,medium,low,8,namesilo,,,19/09/2026 12:14
@@ -424,22 +456,27 @@ ba0156dc-6a2b-4cae-add5-28a2b0a16895,aculeus.land,available,5.98,54.98,medium,lo
 f6663d61-655a-4417-9d65-43b5ca0b4feb,cheery.land,available,5.98,54.98,high,low,6,namecheap,,,12/08/2026 03:56
 51a6d801-eae8-4d56-818e-d35bdac04716,transitions.land,available,19.99,,medium,low,11,name.com,,,
 b71f5b4a-0f24-4f28-8547-2cdbf1f4cbdf,dji.land,premium,118.8,118.8,high,low,3,namesilo,,,
+61ae6903-fe30-434e-a612-7463281e429c,ica.land,available,15.99,41.99,high,low,3,namesilo,,,28/09/2026 16:04
 0123b020-704f-41e4-ad1d-1b571e00eadb,wildly.land,available,15.99,41.99,medium,low,6,namesilo,,,16/09/2026 11:29
 c425b0c5-05b5-404e-81a0-eea97ac32ecb,grump.land,available,5.98,54.98,medium,low,5,namecheap,,,13/08/2026 04:58
+815b641d-c17e-4c8f-8729-1601d9b65b9a,recruiting.land,available,15,,high,low,10,unstoppable,,,28/09/2026 21:30
 d070e48d-f90b-4293-b6db-d389a36adf6b,stairs.land,available,19.99,,high,low,6,name.com,,,
 000db6a3-d2d5-4579-877b-2aa3a8f0dfda,dreyfus.land,available,15.99,41.99,medium,low,7,namesilo,,,18/09/2026 06:30
 47f1f615-da47-4109-8b2a-6709a6adcbe3,splurge.land,available,15.99,41.99,high,low,7,namesilo,,,23/09/2026 17:20
 1e8323db-603f-47bf-8f2e-6cc379cb1d69,pastoral.land,available,5.98,54.98,high,low,8,namecheap,,,06/08/2026 14:20
-dd9e9863-2362-4347-90d2-bd5b8558847c,session.land,available,19.99,,high,low,7,name.com,,,
+dd9e9863-2362-4347-90d2-bd5b8558847c,session.land,available,15.99,41.99,high,low,7,namesilo,,,28/09/2026 17:16
 26765ce8-253f-4811-89f2-0acd31b826b8,artemisia.land,available,15.99,41.99,high,low,9,namesilo,,,20/09/2026 10:15
+173de99a-79b1-4731-b2e8-db1af833d143,resigned.land,available,5.38,33.32,low,low,8,spaceship,,,28/09/2026 17:54
 e62cf5be-8828-469a-ac2b-51976bf5b87f,laureate.land,available,5.98,54.98,high,low,8,namecheap,,,22/08/2026 20:57
 77c5b24f-6b21-4338-8f20-80f81a52962d,whalebone.land,available,15.99,41.99,medium,low,9,namesilo,,,21/09/2026 21:50
 c60dd9d2-2b93-44a4-a44a-026a86ac240e,boring.land,available,15.99,41.99,high,low,6,namesilo,,,23/09/2026 00:20
 5b906cac-8edb-46ff-8aa2-754f03046c89,accidentally.land,available,15.99,41.99,medium,low,12,namesilo,,,28/09/2026 03:20
 bb59db48-65d2-4690-add2-9dce369329c6,cables.land,available,5.98,54.98,medium,low,6,namecheap,,,17/09/2026 12:09
+6800a4e5-67ad-46a9-a544-58e666a89ae6,aquino.land,available,8.75,33.47,medium,low,6,porkbun,,,28/09/2026 22:09
 51aa268d-53f6-41c6-aa4e-34881eb4584a,visually.land,available,15.99,41.99,high,low,8,namesilo,,,16/09/2026 11:04
 dfb92ebf-9b34-43f4-8166-7347dc8b6cd8,overwhelm.land,available,19.99,,medium,low,9,name.com,,,
 9d00547e-9802-4ecf-a5eb-e9592281564e,veg.land,premium,38.94,38.94,high,low,3,namesilo,,,
+e805185d-4aeb-4454-bd79-e998d1616c75,cyrus.land,available,15.99,41.99,high,low,5,namesilo,,,28/09/2026 13:50
 c360bc14-bf0a-461a-b867-8329a560a642,dissonant.land,available,5.98,54.98,medium,low,9,namecheap,,,07/08/2026 12:26
 e604b46c-848e-477d-96fc-f5eb388e1fc1,acquired.land,available,5.98,54.98,high,low,8,namecheap,,,
 794819d7-a84d-4a1d-b51c-7a69ef8e8ce6,seeable.land,available,5.98,54.98,high,low,7,namecheap,,,10/09/2026 01:41
@@ -476,6 +513,7 @@ b1a85e1e-946d-4aa9-8ead-5b3e3e0f28c1,whipping.land,available,5.98,54.98,medium,l
 b978cd06-cf73-41f8-a264-eea464f87464,khomeini.land,available,15.99,41.99,medium,low,8,namesilo,,,21/09/2026 10:36
 cb89bc43-9481-48b4-abec-542edaa7eb40,inscribed.land,available,5.98,54.98,medium,low,9,namecheap,,,17/08/2026 08:24
 595724b2-f1bf-4fec-98b9-65cf368c29a0,adnexa.land,available,15.99,41.99,medium,low,6,namesilo,,,17/09/2026 09:05
+0e2c982f-57af-4d40-8aad-15518c8060f2,jerusalem.land,available,8.78,34.46,medium,low,9,dynadot,,,28/09/2026 09:14
 707f449e-255a-4d93-aaf0-5c79077cc6ed,stupidly.land,available,5.98,54.98,medium,low,8,namecheap,,,14/09/2026 13:43
 6776f86f-4397-4966-adf1-59f6320007b4,philips.land,available,,,high,medium,7,,,,
 908ef4d7-09cf-43d9-8505-221ca7b9aabd,hopeful.land,available,15.99,41.99,high,low,7,namesilo,,,22/09/2026 09:48
@@ -487,17 +525,18 @@ cd0a4742-2e16-446d-a38f-90c7f5a963c0,wardrobe.land,available,5.38,33.32,high,low
 d203ecb5-d6fb-42b2-9a54-f46ce1eaef9c,allie.land,available,15.99,52.99,high,low,5,name.com,,,17/09/2026 22:42
 c9eee508-1034-42da-935e-372097b5454f,volkswagen.land,available,19.99,,high,low,10,name.com,,,
 1a7ab7e3-6450-42b8-b662-209313027dcb,reversion.land,available,5.98,54.98,high,low,9,namecheap,,,09/09/2026 16:19
-5f26c933-b42c-45af-a8dc-5f3913b3f723,athletics.land,available,,,high,medium,9,,,,
+cdfe7574-e4e7-4cf7-8d28-fc2d147c766e,manchester.land,premium,102.67,102.67,high,low,10,spaceship,,,28/09/2026 19:49
 94ec3d00-708d-4f71-96a4-e14a9fb87f2f,asch.land,available,15.99,41.99,high,low,4,namesilo,,,20/09/2026 13:15
 a78723f7-31e7-431f-ae7d-126bee368084,ordained.land,available,5.98,54.98,medium,low,8,namecheap,,,13/08/2026 22:16
 fb3ed508-d961-4e90-bb4c-89bca97dc359,egoistic.land,available,5.98,54.98,medium,low,8,namecheap,,,15/08/2026 18:54
 71c7478f-e091-42d5-8424-0b5786894e53,moderator.land,available,19.99,,high,low,9,name.com,,,
-c3149b03-74d5-45fc-b519-86d072494057,closest.land,available,19.99,,high,low,7,name.com,,,
+c3149b03-74d5-45fc-b519-86d072494057,closest.land,available,32.2,32.2,high,low,7,cloudflare,,,28/09/2026 14:05
 8798c69b-19d4-4437-b8c6-8fc2755b39f5,toed.land,available,5.98,54.98,medium,low,4,namecheap,,,11/09/2026 16:41
 779a7a13-3283-419e-a7f5-04551882068f,comer.land,available,15.99,41.99,medium,low,5,namesilo,,,20/09/2026 09:17
 0b834801-4c1a-4417-879e-ffe862f43f18,cloves.land,available,15.99,41.99,medium,low,6,namesilo,,,17/09/2026 13:15
 a99e46b1-aa98-408f-9151-d465df7d53ab,compilation.land,available,19.99,,high,low,11,name.com,,,
 3f877d7d-f9cc-4681-af8b-7843acbf9204,unsecured.land,available,5.98,54.98,medium,low,9,namecheap,,,12/09/2026 01:41
+33f588ba-12fe-4701-bacb-e10800fad0d6,intercepted.land,available,32.2,32.2,medium,low,11,cloudflare,,,28/09/2026 23:49
 3fd3f5d1-abcc-4bd5-95f4-b2c1ade05371,effeminate.land,available,5.98,54.98,medium,low,10,namecheap,,,12/08/2026 08:34
 4b172d11-32cf-4d52-b33c-91d3080fdf21,pyretic.land,available,5.98,54.98,medium,low,7,namecheap,,,09/09/2026 07:03
 1cedd3e7-d515-45a2-9b18-52243b81b54e,landing.land,premium,242,242,high,low,7,namesilo,,,
@@ -505,6 +544,7 @@ c527759a-1a23-455b-9181-b317ebec7dc1,concerned.land,available,5.98,54.98,high,lo
 c722a859-6897-466e-91a4-e4587e448a63,ariocarpus.land,available,15.99,41.99,medium,low,10,namesilo,,,20/09/2026 05:32
 8d6ebaab-5a7b-4096-8a5f-a696c9c07b91,surfbird.land,available,15.99,41.99,medium,low,8,namesilo,,,19/09/2026 17:13
 51d925b7-f2ab-45e7-bfa6-1074596c55ab,farewell.land,available,15,,high,low,8,unstoppable,,,28/09/2026 01:53
+32b605a1-6bcf-4ab8-a7d2-39c60c13e96f,dudley.land,available,15,,medium,low,6,unstoppable,,,28/09/2026 12:03
 11c40b54-ac92-49c7-843c-6533a847b57a,infrequent.land,available,5.98,54.98,medium,low,10,namecheap,,,22/08/2026 04:50
 5f718d7a-fb9b-490f-aabe-33b505bbac7d,flak.land,available,5.98,54.98,medium,low,4,namecheap,,,
 0a32fdaf-1025-4a5b-af73-f2ae464fdb1d,wrenching.land,available,5.98,54.98,medium,low,9,namecheap,,,09/09/2026 09:27
@@ -514,7 +554,7 @@ e5a5a672-da74-4afe-b0aa-4ba270ef44cd,groggy.land,available,5.98,54.98,medium,low
 40554ff8-93f2-495a-a00b-03538ed7bd33,kendrick.land,available,32.2,32.2,medium,low,8,cloudflare,,,28/09/2026 08:02
 c4e65425-57db-415d-b3ab-397714b03029,committed.land,available,15.99,41.99,high,low,9,namesilo,,,23/09/2026 15:46
 67f83986-5a88-4a87-9862-dea552852782,sucked.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 04:29
-4e758e0b-8e86-4494-a377-2ac786eed5fc,let.land,premium,242,242,high,low,3,namesilo,,,
+4e758e0b-8e86-4494-a377-2ac786eed5fc,let.land,premium,242,242,high,low,3,namesilo,,,28/09/2026 22:10
 2b3a940b-9211-4ff0-a935-3c2e358bd1c6,comical.land,available,15.99,41.99,high,low,7,namesilo,,,23/09/2026 15:19
 a6b585aa-40eb-4b95-8048-9507d2b45854,braun.land,available,15.99,41.99,high,low,5,namesilo,,,25/09/2026 02:19
 823b95ea-d8fb-4bc0-b723-2f5ef2f44f86,suchlike.land,available,5.98,54.98,medium,low,8,namecheap,,,11/09/2026 01:00
@@ -524,6 +564,7 @@ f519a6c5-89e0-4c14-bbba-950bd8bcdc50,thermic.land,available,5.98,54.98,medium,lo
 904eab71-1e96-469c-b423-7e4f956ccab9,terrorism.land,available,15.99,41.99,medium,low,9,namesilo,,,17/09/2026 04:10
 f6eef422-69c8-4ccb-a199-ccdb73131ec6,foolproof.land,available,5.98,54.98,high,low,9,namecheap,,,18/08/2026 10:37
 57e1716a-95b6-4b7b-8ba8-3d6b26c23a88,stillborn.land,available,5.98,54.98,medium,low,9,namecheap,,,
+8ca8cfa3-ee23-4136-bd61-721f8923c841,credits.land,available,5.38,33.32,high,low,7,spaceship,,,28/09/2026 13:48
 012ada1b-fde9-46f5-8fa2-42a1b3534938,goony.land,available,15.99,41.99,medium,low,5,namesilo,,,23/09/2026 23:48
 5fad3134-efde-4826-9ec8-af96e9b5ba50,ternion.land,available,5.98,54.98,medium,low,7,namecheap,,,
 19fa477d-1e52-400b-aee5-d35ecacdd8f1,asepsis.land,available,15.99,41.99,medium,low,7,namesilo,,,19/09/2026 15:02
@@ -534,6 +575,7 @@ d829c079-3b53-4ba6-b419-26d947f635d4,nominated.land,available,5.98,54.98,high,lo
 0d9f69e0-02aa-47bc-a6a1-48b811f0b389,details.land,available,19.99,,high,low,7,name.com,,,
 6abbd084-a4e2-43a7-bc91-bfe7d5c99630,workout.land,available,19.99,,high,low,7,name.com,,,
 5370cdc7-7aee-4997-be37-ed7167857338,walks.land,available,15.99,41.99,high,low,5,namesilo,,,25/09/2026 16:37
+e626e9dc-bcc0-40c0-aebb-0dd75dda5749,thelma.land,available,8.78,34.46,medium,low,6,dynadot,,,28/09/2026 21:54
 870dec82-6640-4136-9c4d-d5996534940a,dolorous.land,available,5.98,54.98,medium,low,8,namecheap,,,14/08/2026 15:30
 a99c0052-1e58-4951-8c60-5c15fbff4e84,dovish.land,available,5.98,54.98,high,low,6,namecheap,,,14/08/2026 17:07
 e9b6ee3a-0f98-44c2-ab8e-676029de4f69,ran.land,premium,242,242,high,low,3,namesilo,,,25/09/2026 12:35
@@ -544,6 +586,7 @@ a090e5ef-0193-468b-ae14-9e5514dde056,records.land,premium,242,242,high,low,7,nam
 2fd7da19-a8d8-417a-8739-584961926f8e,create.land,resell,,,high,medium,6,"GoDaddy.com, LLC",29/06/2020 13:05,29/06/2027 13:05,26/09/2026 05:19
 50b82f1b-cf5f-4067-bd97-72d336ae1940,situated.land,available,15.99,41.99,medium,low,8,namesilo,,,25/09/2026 14:16
 aa75dc17-8ddc-4674-97f7-c0a4cb27de10,destruction.land,available,15.99,41.99,medium,low,11,namesilo,,,27/09/2026 02:03
+4cc0447a-cdf0-4475-9a1d-7389bf51dc5b,crib.land,available,15.99,41.99,high,low,4,namesilo,,,29/09/2026 00:31
 4fda2327-dfbd-4bf5-a95a-aed87bc59dba,logistic.land,available,5.98,54.98,high,low,8,namecheap,,,24/08/2026 08:52
 2e904429-3ebe-46c9-9982-d9202e8fb7bd,parous.land,available,5.98,54.98,medium,low,6,namecheap,,,08/09/2026 01:52
 f7b9ed65-9107-4a3f-92fc-35b68c7b3817,downwind.land,available,5.98,54.98,medium,low,8,namecheap,,,14/08/2026 18:03
@@ -562,10 +605,11 @@ d34332ed-322a-48b4-987e-0b25ccf74757,abortive.land,available,5.98,54.98,medium,l
 b84a91a2-a856-4a31-8d1a-24e828c453c3,angelic.land,available,15.99,41.99,high,low,7,namesilo,,,22/09/2026 04:25
 92170adf-558a-4642-8b72-6ece0c2d06ea,setting.land,available,19.99,,high,low,7,name.com,,,
 cebf9da4-7e44-4c66-8c84-cb3475b277d4,cookies.land,available,5.38,33.32,high,low,7,spaceship,,,27/09/2026 23:29
-0e569597-b6a0-44ea-8347-2ef43343c27d,useless.land,available,19.99,,medium,low,7,name.com,,,
+0e569597-b6a0-44ea-8347-2ef43343c27d,useless.land,available,5.38,33.32,medium,low,7,spaceship,,,28/09/2026 10:02
 45e8930f-9eb3-4be4-8722-42b9ddc72cba,dismiss.land,available,19.99,,high,low,7,name.com,,,
 d0a50015-55b1-435d-873e-78aabf878935,myotic.land,available,5.98,54.98,medium,low,6,namecheap,,,25/08/2026 01:02
 a3807316-a494-4575-9b78-043bf9981cf8,sonar.land,available,15.99,41.99,high,low,5,namesilo,,,20/09/2026 13:30
+040e7a2a-6339-4d53-a494-1b811716f3c1,stored.land,available,15.99,41.99,low,low,6,namesilo,,,28/09/2026 17:31
 bf15ba22-0d68-47fe-ae9f-e6c520db7541,provably.land,available,5.98,54.98,medium,low,8,namecheap,,,14/09/2026 11:29
 1dcb693f-4169-45b6-9f87-9701d9fcce30,kindly.land,available,5.98,54.98,high,low,6,namecheap,,,24/09/2026 22:41
 c6d75759-eaed-427a-ad3c-d609e8976b84,keyrings.land,available,15.99,41.99,medium,low,8,namesilo,,,20/09/2026 12:08
@@ -584,14 +628,16 @@ f2dfe0ed-210c-4ea7-aa41-bbb0d8dcf31a,eastmost.land,available,5.98,54.98,medium,l
 103efd7d-7535-4d6c-b8e0-54984a14db1c,addicted.land,available,15.99,41.99,high,low,8,namesilo,,,21/09/2026 17:07
 5a24197a-7dd4-421a-8101-0d0340463f82,fetching.land,available,5.98,54.98,high,low,8,namecheap,,,18/08/2026 02:20
 ee21cf35-88ca-4839-9143-d5421276170d,complacent.land,available,5.98,54.98,medium,low,10,namecheap,,,12/08/2026 19:25
-f763e8cd-af4a-4821-b565-8bb92145a88f,plug.land,available,19.99,,high,low,4,name.com,,,
+f763e8cd-af4a-4821-b565-8bb92145a88f,plug.land,available,5.38,33.32,high,low,4,spaceship,,,29/09/2026 00:52
 98b9f61f-b6d7-464d-af69-0d13e79fb61f,yale.land,available,5.98,54.98,high,low,4,namecheap,,,25/09/2026 05:27
 32d6cb73-534b-4069-b193-1b94140a98a4,jehovah.land,available,5.98,54.98,high,low,7,namecheap,,,
+881f33fd-2e17-459d-8f40-7e652cb61ef5,compelled.land,available,15.99,41.99,low,low,9,namesilo,,,28/09/2026 23:06
 2ade000c-0126-4078-87aa-c13dcfef027e,bloomington.land,available,15.99,41.99,medium,low,11,namesilo,,,27/09/2026 08:15
 3317086b-8e56-41e2-863c-e7641f073751,laughing.land,available,15.99,41.99,high,low,8,namesilo,,,25/09/2026 16:41
 97458638-abee-46ad-a8a9-68cb63df2e23,nervy.land,available,5.98,54.98,medium,low,5,namecheap,,,11/08/2026 02:28
 c5f36111-a370-42d0-a75e-f68750551a4a,early.land,available,5.98,54.98,high,low,5,namecheap,,,24/09/2026 12:57
 80058c05-fcde-462c-9efe-b623b4a8b297,decorative.land,available,5.98,54.98,high,low,10,namecheap,,,13/08/2026 02:51
+6d18c018-8ac5-44a3-b238-44235c3c3c37,mindanao.land,available,8.78,34.46,medium,low,8,dynadot,,,28/09/2026 10:28
 d381660b-99a6-49e8-b390-5b7a20e75627,aliens.land,resell,,,high,low,6,Dynadot Inc,30/06/2026 22:42,30/06/2027 22:42,26/09/2026 03:47
 1c3d635d-40c4-460b-a2a3-aa6a9824d5bb,pedagogic.land,available,5.98,54.98,medium,low,9,namecheap,,,08/09/2026 12:15
 5c611776-8b29-49ee-872f-29b43a7135a9,carlton.land,available,15.99,41.99,high,low,7,namesilo,,,25/09/2026 15:21
@@ -604,6 +650,7 @@ c4073603-e8a7-4c5e-bdd6-8904852a6a28,guaranteed.land,available,15,,high,low,10,u
 4d127676-db3c-477c-8538-3a771e8f87e0,remind.land,available,5.98,54.98,high,low,6,namecheap,,,24/09/2026 20:14
 1d9fe9c2-6967-4756-b003-390ae65b37ee,malformed.land,available,5.98,54.98,medium,low,9,namecheap,,,13/08/2026 23:43
 74495f32-8d5d-46f9-8dd6-1427b81dc067,immovable.land,available,5.98,54.98,high,low,9,namecheap,,,21/08/2026 21:17
+d396001b-0534-4b0f-bbd9-f3c1db2391ef,terrace.land,available,5.38,33.32,high,low,7,spaceship,,,28/09/2026 20:08
 3717f585-c548-4715-a903-d93e517c79ad,nsa.land,available,5.98,54.98,high,low,3,namecheap,,,27/09/2026 04:50
 6b3c645f-eade-4561-b681-5b024771173c,musset.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 06:29
 f652ebc3-b2c6-4af6-a9d3-629aa7e2e303,contacts.land,premium,260,260,medium,low,8,namecheap,,,19/09/2026 20:06
@@ -615,6 +662,7 @@ d3bdcd53-a92a-409c-b3ea-dbc014f0abe0,honest.land,resell,,,high,low,6,Dynadot Inc
 9cae6865-125c-45ed-9e73-38607013cce6,yourselves.land,available,19.99,,medium,low,10,name.com,,,
 3933410f-5237-4cca-b845-3bd463bb86fd,malian.land,available,5.98,54.98,high,low,6,namecheap,,,24/08/2026 14:00
 23a9c1af-cd0a-4c6a-b807-94bc951e9140,liege.land,available,5.98,54.98,medium,low,5,namecheap,,,18/08/2026 03:03
+15c4c034-3c79-471c-8518-b1579d80c555,violate.land,available,5.38,33.32,medium,low,7,spaceship,,,28/09/2026 13:36
 90f2dbdb-3629-4b3f-aa0f-9a827e89cb0c,antivenin.land,available,15.99,41.99,medium,low,9,namesilo,,,19/09/2026 15:16
 a2b9c67a-21e1-4507-8dfd-00c6bcc58613,blabby.land,available,5.98,54.98,low,low,6,namecheap,,,09/08/2026 21:03
 eab65da6-94c3-4a60-893a-97b06f2d8e1e,sybarite.land,available,5.98,54.98,medium,low,8,namecheap,,,13/09/2026 07:15
@@ -635,8 +683,8 @@ e0e1fc73-f008-42d3-9903-dad33c763ff1,spangly.land,available,5.98,54.98,medium,lo
 88d921bb-784b-41eb-8602-49214cc696e5,bedpan.land,available,15.99,41.99,high,low,6,namesilo,,,22/09/2026 23:28
 24fbadba-7af6-4679-bf0d-371d33c1e179,illusory.land,available,5.98,54.98,medium,low,8,namecheap,,,21/08/2026 20:15
 5134ce01-906d-4a3b-b67b-e58fe9035019,coherent.land,available,5.98,54.98,high,low,8,namecheap,,,12/08/2026 16:00
-14385769-bd74-4d21-82d5-24e67dfa3ceb,basket.land,available,19.99,,high,low,6,name.com,,,
-bc1bbaef-ca40-4ec5-b56b-14d188f6781a,alimony.land,available,19.99,,medium,low,7,name.com,,,
+14385769-bd74-4d21-82d5-24e67dfa3ceb,basket.land,available,5.98,54.98,high,low,6,namecheap,,,29/09/2026 01:26
+bc1bbaef-ca40-4ec5-b56b-14d188f6781a,alimony.land,available,32.2,32.2,medium,low,7,cloudflare,,,28/09/2026 20:27
 28d13357-9a31-407b-88cd-0b7325459618,experient.land,available,5.98,54.98,medium,low,9,namecheap,,,17/08/2026 18:12
 5b26fc82-2f59-495f-aab5-561c22337fe7,vocative.land,available,5.98,54.98,medium,low,8,namecheap,,,13/09/2026 06:31
 0674b5ed-369f-423a-98fc-a88675390d69,emotional.land,available,5.98,54.98,high,low,9,namecheap,,,16/08/2026 15:56
@@ -645,6 +693,7 @@ f5219f20-2118-4837-ac84-0b6db01ae256,ossified.land,available,5.98,54.98,medium,l
 5e378e5d-e88b-4ecd-9f7f-1bfe91c2a305,spareribs.land,available,15.99,41.99,high,low,9,namesilo,,,22/09/2026 04:41
 6f88d81d-3568-4406-b578-872063888421,steroidal.land,available,5.98,54.98,medium,low,9,namecheap,,,10/09/2026 20:19
 d5f8865d-cf7e-42aa-8563-a55b5011f1f7,bistre.land,available,5.98,54.98,medium,low,6,namecheap,,,23/09/2026 22:12
+79d3dbcf-5c7c-4d4a-98c9-a295322f8a66,neill.land,available,15.99,41.99,medium,low,5,namesilo,,,28/09/2026 23:29
 c5caafeb-8e26-44ac-ad2f-8a52d623c555,retracted.land,available,32.2,32.2,medium,low,9,cloudflare,,,27/09/2026 13:32
 7fdbbdac-6717-4d5a-ba66-e1cdc805d82a,basal.land,available,5.98,54.98,medium,low,5,namecheap,,,08/08/2026 21:24
 1ea5c3fb-f997-4d97-8dc4-882c819c8ba3,casualties.land,available,32.2,32.2,medium,low,10,cloudflare,,,27/09/2026 21:53
@@ -652,11 +701,12 @@ c5caafeb-8e26-44ac-ad2f-8a52d623c555,retracted.land,available,32.2,32.2,medium,l
 c7c626c9-a668-45cf-834c-e92de9ea78d3,maitland.land,available,15.99,41.99,medium,low,8,namesilo,,,28/09/2026 01:57
 98ca9f0b-6587-4f6b-aeb8-c3b0bd9daea5,ferrous.land,available,5.98,54.98,medium,low,7,namecheap,,,18/08/2026 02:09
 f4892bc7-f10b-4a26-8ccf-5ea094939020,abkhazian.land,available,5.98,54.98,medium,low,9,namecheap,,,
+cdf70fe2-dd7f-4aeb-b5a8-cd295ef80ee5,tailor.land,available,32.2,32.2,high,low,6,cloudflare,,,28/09/2026 10:52
 d79fbee5-ad81-44bc-b47c-e3357c63c75f,speedily.land,available,5.98,54.98,medium,low,8,namecheap,,,13/09/2026 20:19
 431a5da3-e3e5-4dad-b057-eed79f69141b,unsubtle.land,available,5.98,54.98,medium,low,8,namecheap,,,12/09/2026 20:46
-254af7c9-d6a6-40d5-bb14-91921584b1e2,commerce.land,premium,242,242,high,low,8,namesilo,,,25/09/2026 22:32
+254af7c9-d6a6-40d5-bb14-91921584b1e2,commerce.land,premium,242,242,high,low,8,namesilo,,,28/09/2026 15:11
 d0449e06-8221-4714-9f6a-3deea8908574,fiscal.land,available,15.99,41.99,high,low,6,namesilo,,,19/09/2026 10:22
-69145629-922d-4585-8423-4c0dff6f063e,add.land,premium,118.8,118.8,high,low,3,namesilo,,,
+69145629-922d-4585-8423-4c0dff6f063e,add.land,premium,102.67,102.67,high,low,3,spaceship,,,28/09/2026 18:19
 f461dda4-00f2-491c-8c2e-4eef83b0f375,woollen.land,available,5.98,54.98,high,low,7,namecheap,,,13/09/2026 13:15
 c6488a66-5a4c-431b-93bb-51c3696d7203,ayrshire.land,available,5.98,54.98,high,low,8,namecheap,,,21/09/2026 10:44
 ef471d42-66ae-4876-b7e3-ccc4a19ddb03,balata.land,available,5.98,54.98,medium,low,6,namecheap,,,21/09/2026 21:12
@@ -683,30 +733,35 @@ be422dd6-2ff1-4171-ac24-5a338f0b17b9,briss.land,available,15.99,41.99,medium,low
 57e415be-763b-41b0-8d44-e2c65981ba4c,bitty.land,available,5.98,54.98,high,low,5,namecheap,,,10/08/2026 07:51
 b8b3bd0c-6b6a-4bcd-adde-6acf34b56a75,remembered.land,available,15.99,41.99,high,low,10,namesilo,,,17/09/2026 12:04
 a3740ff2-7d8c-47fb-86e3-888864f3fe15,sextuple.land,available,5.98,54.98,medium,low,8,namecheap,,,10/09/2026 05:19
-da1e3a55-3367-4f34-a9d2-7e8f244da496,wrongful.land,available,19.99,,medium,low,8,name.com,,,
+da1e3a55-3367-4f34-a9d2-7e8f244da496,wrongful.land,available,8.78,34.46,medium,low,8,dynadot,,,28/09/2026 11:11
 8f5be541-d553-48b9-998c-aad10cbe26ad,attractor.land,available,15.99,41.99,high,low,9,namesilo,,,21/09/2026 02:12
 918a0a4a-f854-4478-8d76-c94943b10f0b,lollipop.land,available,15.99,41.99,high,low,8,namesilo,,,18/09/2026 08:50
+07fc7b15-6541-47cd-8606-372526055f30,abi.land,available,5.38,33.32,high,low,3,spaceship,,,29/09/2026 03:38
 341a46fe-f876-49cb-826f-87c761f37c64,timetables.land,available,15.99,41.99,medium,low,10,namesilo,,,20/09/2026 12:23
 5845e3af-a8f9-4c07-95e1-8872ef707726,georges.land,available,5.98,54.98,medium,low,7,namecheap,,,25/09/2026 15:05
 c0d75070-3c04-4ec3-a667-3ff3a0f70237,anchorage.land,available,15.99,41.99,high,low,9,namesilo,,,19/09/2026 03:43
 9858bbdc-1234-4b43-a7d1-fd00b811cafc,banshee.land,available,15.99,41.99,high,low,7,namesilo,,,22/09/2026 03:09
 d4e5ddae-f746-4edc-9050-aea1d07da64f,kvetch.land,available,5.98,54.98,medium,low,6,namecheap,,,08/09/2026 20:36
 22dba5a8-0d4c-4777-8add-36d250b7a3f2,doctors.land,available,15.99,41.99,high,low,7,namesilo,,,18/09/2026 07:41
+ed22700c-4fa8-45f6-863c-b6564ad183b6,marston.land,available,8.78,34.46,medium,low,7,dynadot,,,28/09/2026 16:09
 0cf54f73-f837-4959-a706-b733624957b9,unorthodox.land,available,5.98,54.98,high,low,10,namecheap,,,24/08/2026 17:44
 396da92d-791c-40c9-bf28-376f46559d3f,sponge.land,available,5.98,54.98,high,low,6,namecheap,,,11/08/2026 09:32
 efa4aadb-14ef-4bfb-9ef0-7363d46ce5cf,heard.land,available,5.98,54.98,high,low,5,namecheap,,,24/09/2026 23:38
 2ddc8d17-dcc8-49e6-b2d1-73681f797c23,adapted.land,available,5.98,54.98,high,low,7,namecheap,,,21/09/2026 17:02
 bc58acc9-7002-4ea9-b99f-44b44ecdcd91,apothegm.land,available,15.99,41.99,medium,low,8,namesilo,,,19/09/2026 17:10
 0ab4ce23-489c-475a-96df-86cf4f7cc1ec,numerical.land,available,5.98,54.98,high,low,9,namecheap,,,03/09/2026 22:52
+df742194-032f-4d15-b749-7616439681b3,quincy.land,available,15.99,41.99,high,low,6,namesilo,,,28/09/2026 10:11
 54add980-153d-4f4c-8f69-41224900ff0c,hoped.land,available,15.99,41.99,medium,low,5,namesilo,,,27/09/2026 02:59
 2694dd3a-5758-4b8b-b05a-8ac36ce92c7a,weighted.land,available,5.98,54.98,high,low,8,namecheap,,,13/09/2026 10:08
 bd78971b-e0b0-46bf-8d5a-2808d10beb81,asterion.land,available,15.99,41.99,medium,low,8,namesilo,,,20/09/2026 17:10
 6544a844-3791-4fdb-81ae-1c3be2962b48,ephesian.land,available,5.98,54.98,medium,low,8,namecheap,,,17/08/2026 10:24
 259ed517-437d-4f08-804a-1e4ff8f27e0c,bacca.land,available,5.98,54.98,high,low,5,namecheap,,,21/09/2026 13:55
+aee88a1e-45bf-4c67-8247-3972aaa9746d,occupational.land,available,32.2,32.2,medium,low,12,cloudflare,,,29/09/2026 03:01
 1729105a-3fa4-45de-afb7-0dcdaa2ef8fb,abdomen.land,available,5.98,54.98,high,low,7,namecheap,,,16/09/2026 14:45
 996a123e-5e7c-46b7-9b6e-fed0e8e53c5e,reversible.land,available,8.75,33.47,high,low,10,porkbun,,,27/09/2026 14:17
 6fe93079-c0dc-4882-8f46-ffd52f1fa85e,tiresome.land,available,5.98,54.98,medium,low,8,namecheap,,,10/08/2026 20:03
 6594a001-9f73-4dec-8495-a78335aaad97,thunderous.land,available,15.99,52.99,medium,low,10,name.com,,,13/08/2026 19:56
+24182b8a-8fc1-486c-8e88-9aa6204ad33e,cork.land,available,5.38,33.32,high,low,4,spaceship,,,29/09/2026 00:12
 94dcc01e-c0b5-453a-8d92-2b601b3edea0,undaunted.land,available,5.98,54.98,high,low,9,namecheap,,,12/09/2026 07:00
 bf3f4a52-40d7-4577-b246-8f755cebe65b,pork.land,available,15.99,41.99,high,low,4,namesilo,,,26/09/2026 00:07
 e4df14f2-d92b-44c5-913b-4f01b9fa36b9,azonic.land,available,5.98,54.98,medium,low,6,namecheap,,,08/08/2026 02:32
@@ -714,7 +769,7 @@ e4df14f2-d92b-44c5-913b-4f01b9fa36b9,azonic.land,available,5.98,54.98,medium,low
 57bb3394-8f2e-40b6-bf9f-22afb9ae97e7,selfmade.land,available,5.98,54.98,high,low,9,namecheap,,,10/09/2026 02:03
 a836129a-b417-49f0-a46d-b96ebdde315f,gracile.land,available,5.98,54.98,high,low,7,namecheap,,,20/08/2026 17:29
 4b2d3e5e-ca8a-41b4-ab82-12c9c732019b,nike.land,available,,,high,high,4,,,,
-9c25833c-c4f8-4295-a8ff-caa507d9ff73,whip.land,available,19.99,,high,low,4,name.com,,,
+9c25833c-c4f8-4295-a8ff-caa507d9ff73,whip.land,available,32.2,32.2,high,low,4,cloudflare,,,28/09/2026 11:01
 71f5d7fb-9859-4166-b4d6-49af470d6f87,didrikson.land,available,5.98,54.98,high,low,9,namecheap,,,21/09/2026 12:34
 76a9b0b1-07b0-4a62-931f-59b4fe8899b2,brandeis.land,available,5.38,33.32,medium,low,8,spaceship,,,28/09/2026 08:12
 8d875e7d-8746-4b2f-b7f3-71fed65bf906,conclusive.land,available,5.98,54.98,high,low,10,namecheap,,,23/09/2026 19:11
@@ -726,9 +781,10 @@ e71517f2-2c8c-4d24-9e50-92bd7f523960,prove.land,available,19.99,,high,low,5,name
 602eea19-dc21-4de5-a7e3-42ce6a54ba83,pasted.land,available,5.98,54.98,high,low,6,namecheap,,,20/08/2026 15:14
 b505eafb-9a20-49b4-8a74-9c25f668cc84,earthen.land,available,5.98,54.98,high,low,7,namecheap,,,14/08/2026 22:38
 92b306c4-1afd-46e7-85be-e07a38717d58,fail.land,premium,118.8,118.8,medium,low,4,namesilo,,,
-f9050f3c-b8c4-4e60-932b-845af9c27f2b,cabbage.land,available,19.99,,high,low,7,name.com,,,
+f9050f3c-b8c4-4e60-932b-845af9c27f2b,cabbage.land,available,5.38,33.32,high,low,7,spaceship,,,29/09/2026 03:24
 35ab7ea8-2585-42bf-a0ed-5e5f3da997bd,bonney.land,available,15.99,41.99,high,low,6,namesilo,,,23/09/2026 16:28
 cea937ef-f0d6-4597-981e-6f8f37acea43,factitious.land,available,5.98,54.98,medium,low,10,namecheap,,,17/08/2026 20:27
+c10e927d-c9ad-4625-82b5-7db80aabae44,housewife.land,available,15,,high,low,9,unstoppable,,,29/09/2026 01:18
 d7995a43-617d-440d-b427-1ca69a0da2d8,superheroes.land,available,15.99,41.99,medium,low,11,namesilo,,,21/09/2026 05:42
 0ab2fbaf-8379-4581-ad0b-33ae7c31ce26,polyvalent.land,available,5.98,54.98,medium,low,10,namecheap,,,08/09/2026 23:35
 d1d384f2-85bd-4d0f-be52-38e1485cadde,amherst.land,available,15.99,41.99,high,low,7,namesilo,,,25/09/2026 12:38
@@ -736,6 +792,7 @@ d1d384f2-85bd-4d0f-be52-38e1485cadde,amherst.land,available,15.99,41.99,high,low
 547a2d92-532e-42a8-84af-a44959c6a10c,civilly.land,available,5.98,54.98,medium,low,7,namecheap,,,14/09/2026 06:57
 25561e74-91e9-4411-9954-689016abf158,legible.land,available,5.98,54.98,high,low,7,namecheap,,,22/08/2026 22:59
 c8398f61-40e8-47a6-ba00-7faa9dd11536,yates.land,available,15.99,41.99,high,low,5,namesilo,,,25/09/2026 16:03
+8ed8e83a-3f60-4861-a102-ed9103010cb4,shenzhen.land,premium,118.8,118.8,medium,low,8,namesilo,,,29/09/2026 04:19
 67a0059a-c221-4d2c-b7f3-eba6f3aaa152,doubter.land,available,5.98,54.98,medium,low,7,namecheap,,,
 368539a0-4296-48a6-8d14-ebcfbe19fe75,benighted.land,available,5.98,54.98,low,low,9,namecheap,,,08/09/2026 09:10
 cd1d64a8-162c-49db-893d-016411289188,mandioca.land,available,15.99,41.99,medium,low,8,namesilo,,,23/09/2026 22:54
@@ -745,7 +802,7 @@ b45c0980-6a93-41a6-a64f-f577c30be762,adroitly.land,available,5.98,54.98,medium,l
 95b9ecd7-e931-4b58-bb80-49397e9a6920,fevered.land,available,5.98,54.98,medium,low,7,namecheap,,,18/08/2026 03:07
 91c3eea8-a8ee-42bf-863e-fb60bcf97664,heat.land,available,19.99,,high,low,4,name.com,,,
 578a309d-e487-442a-a8b8-27f942ed56f7,assiduous.land,available,5.98,54.98,medium,low,9,namecheap,,,07/08/2026 06:09
-90665c3e-44d1-4a68-b9ec-cfc06608e9e5,atop.land,available,19.99,,medium,low,4,name.com,,,
+90665c3e-44d1-4a68-b9ec-cfc06608e9e5,atop.land,available,32.2,32.2,medium,low,4,cloudflare,,,28/09/2026 13:10
 6303da7f-f280-4b51-8423-8d089745b53a,connective.land,available,5.98,54.98,high,low,10,namecheap,,,12/08/2026 22:16
 c7b738b4-41e3-45f9-abac-c66dae99fb15,aerophile.land,available,15.99,41.99,medium,low,9,namesilo,,,17/09/2026 13:12
 af065393-a90d-47b6-a1ac-4290faaa740e,horrify.land,available,15.99,41.99,medium,low,7,namesilo,,,18/09/2026 01:56
@@ -760,12 +817,14 @@ b7dc9ec1-0f15-4051-9695-39c4b450964d,gillespie.land,available,15.99,41.99,high,l
 d29d8d11-73f4-4af0-8b56-22f0f4be9e24,gorgeous.land,available,15.99,41.99,high,low,8,namesilo,,,24/09/2026 22:48
 d209237d-02df-4db2-9e8d-ae5a625236a0,encircled.land,available,5.98,54.98,medium,low,9,namecheap,,,16/08/2026 22:19
 9cf8bb16-65f9-49c5-b997-2df16bba8982,sweetish.land,available,5.98,54.98,medium,low,8,namecheap,,,11/09/2026 05:36
+6fd1c840-22a4-42f4-9fd6-a4834312f60e,matilda.land,available,15,,high,low,7,unstoppable,,,29/09/2026 03:20
 68a1ef25-21c6-4157-8b11-2d7ebd1719f9,paranormal.land,available,5.98,54.98,high,low,10,namecheap,,,17/08/2026 19:25
 78e00a96-2aff-44c7-a29c-cc74e98b5724,wisdoms.land,available,5.98,54.98,medium,low,7,namecheap,,,21/09/2026 10:19
 1dd1c2bd-1be7-4f53-a4e0-bac32fa8e2d3,faker.land,available,5.98,54.98,medium,low,5,namecheap,,,09/09/2026 05:01
+6d1bd2a3-0aa1-4a24-bd29-70510dc84da5,skiing.land,available,5.38,33.32,high,low,6,spaceship,,,28/09/2026 10:57
 1d54264d-5cb3-453e-aab8-7a4c8191496d,settlement.land,premium,34.36,34.36,high,low,10,spaceship,,,28/09/2026 01:43
 e14f12a0-5399-44e2-a81e-c586274832bf,zodiacal.land,available,5.98,54.98,medium,low,8,namecheap,,,13/09/2026 15:23
-508b45d8-a853-4b62-a5ea-33ef438a0044,optionally.land,available,19.99,,medium,low,10,name.com,,,
+508b45d8-a853-4b62-a5ea-33ef438a0044,optionally.land,available,15,,medium,low,10,unstoppable,,,28/09/2026 16:29
 35f3cda3-80fc-42ae-8d60-9835d7682daf,disgusting.land,available,5.98,54.98,medium,low,10,namecheap,,,14/08/2026 10:32
 eec4928d-4534-46d1-8319-e210476ae55d,wittingly.land,available,5.98,54.98,medium,low,9,namecheap,,,15/09/2026 10:32
 b983c2df-9c31-4d5d-bd91-a6b76321575d,solvable.land,available,5.38,33.32,high,low,8,spaceship,,,27/09/2026 12:17
@@ -804,7 +863,9 @@ cff4951b-ddad-464f-af4a-329fcad3f263,antipasto.land,available,5.98,54.98,medium,
 ba66c3e2-6037-4990-b6af-e3c02a3c371b,acetabular.land,available,5.98,54.98,medium,low,10,namecheap,,,
 0cac2943-1ba4-42f1-94a9-95d97824e908,undyed.land,available,5.98,54.98,medium,low,6,namecheap,,,12/09/2026 02:08
 0bf40e77-9889-45cb-96ec-a7890db3847d,futuristic.land,available,5.98,54.98,high,low,10,namecheap,,,18/08/2026 19:17
+28253fd1-b75c-41a2-9d98-f63dad66f6cd,litchfield.land,available,15.99,41.99,medium,low,10,namesilo,,,28/09/2026 21:40
 e528e65f-ab69-4ffa-8293-d15585718c07,communism.land,available,15.99,41.99,high,low,9,namesilo,,,24/09/2026 16:38
+90cc9b06-fc65-4f1b-8b49-c4fc044782db,snails.land,available,5.38,33.32,medium,low,6,spaceship,,,29/09/2026 06:02
 7f16e83a-b7fe-49e8-a9dd-0d422ed87bee,include.land,available,19.99,,high,low,7,name.com,,,
 b9ca68a9-f974-437f-a336-e5769293f5e3,astronomy.land,available,5.98,54.98,high,low,9,namecheap,,,20/09/2026 18:10
 73fda0be-6afa-4c60-a879-9c5d86ae3139,advisee.land,available,15.99,41.99,medium,low,7,namesilo,,,17/09/2026 11:34
@@ -820,6 +881,7 @@ e5b4f545-3e1f-4fc5-bf9d-bb1c0308fc64,ibidem.land,available,5.98,54.98,medium,low
 b67b8ade-0a1c-4835-b43a-280de59b72ab,nobly.land,available,5.98,54.98,medium,low,5,namecheap,,,15/09/2026 16:42
 1895ff25-5bfc-45a6-8bc5-ac12498d3b09,abatis.land,available,15.99,41.99,medium,low,6,namesilo,,,16/09/2026 14:12
 886de54f-e053-45aa-af9c-3339d88d86cb,doctrine.land,available,15.99,41.99,high,low,8,namesilo,,,28/09/2026 02:40
+fe28c15a-b9fa-46b0-a78d-941dc9eaea99,killings.land,available,15,,low,low,8,unstoppable,,,28/09/2026 23:59
 f8c13315-9178-4725-9a37-a8b534b6137f,replies.land,available,5.98,54.98,medium,low,7,namecheap,,,18/09/2026 09:15
 52674a5b-f9cd-43f0-b8de-2d833a69e47e,lifetime.land,available,15.99,41.99,high,low,8,namesilo,,,25/09/2026 23:26
 1cc34372-6b94-4112-a7ac-4896d9096fbc,uncontrollable.land,available,19.99,,medium,low,14,name.com,,,
@@ -829,6 +891,7 @@ f8c13315-9178-4725-9a37-a8b534b6137f,replies.land,available,5.98,54.98,medium,lo
 3a2fb5b6-2fab-4aee-b964-e6d7ea52fdc9,felted.land,available,5.98,54.98,medium,low,6,namecheap,,,18/08/2026 01:00
 d76fe533-d814-48ce-b2fd-999d07833743,breakdown.land,available,15.99,52.99,high,low,9,name.com,,,28/09/2026 01:08
 8032dddd-0149-43fc-b096-da57fc3812aa,delinquent.land,available,5.98,54.98,medium,low,10,namecheap,,,14/08/2026 00:42
+4fdcad72-4d9d-48a8-b9ca-0efe320c1934,rotate.land,available,5.38,33.32,high,low,6,spaceship,,,29/09/2026 02:43
 f0f5abe5-f770-46e8-af16-7acfa32ed46c,hen.land,premium,128.7,128.7,high,low,3,namecheap,,,23/09/2026 13:44
 a06134c4-f4e5-440b-8d0f-e43719fe8941,suffering.land,available,5.98,54.98,high,low,9,namecheap,,,25/08/2026 01:27
 b66da3d2-1893-4c2f-8623-15220cbb95b1,weddings.land,available,15.99,41.99,high,low,8,namesilo,,,20/09/2026 01:47
@@ -836,6 +899,7 @@ b66da3d2-1893-4c2f-8623-15220cbb95b1,weddings.land,available,15.99,41.99,high,lo
 c3ac63ab-60a3-407a-9a26-fdae73a3be3f,anion.land,available,15.99,41.99,medium,low,5,namesilo,,,19/09/2026 09:23
 bb71b68a-868a-464f-8d55-46e4f88d835b,radiance.land,available,5.98,54.98,high,low,8,namecheap,,,20/08/2026 15:09
 979867b2-ff96-47b7-8c33-69b61f3abdc7,dissected.land,available,5.98,54.98,medium,low,9,namecheap,,,12/08/2026 10:41
+8d7957dd-b354-4736-bd6d-53178d0d5188,pension.land,available,5.38,33.32,high,low,7,spaceship,,,28/09/2026 10:42
 36f1c467-4eb7-4001-9af0-078becb270dd,backslash.land,available,19.99,,high,low,9,name.com,,,
 968ee1ac-f5d8-4a83-a0b6-38b2aced99be,adornment.land,available,15.99,41.99,high,low,9,namesilo,,,17/09/2026 09:46
 79b17a71-b823-455b-9255-694028f062a0,recaptured.land,available,5.98,54.98,medium,low,10,namecheap,,,18/09/2026 19:20
@@ -852,6 +916,8 @@ b7d470e2-a9b1-42ca-b425-22ebf302eec8,clxxv.land,available,5.98,54.98,medium,low,
 801a8f7d-ef8f-4b17-bd4a-bb3e86920d77,kenyon.land,available,8.75,33.47,medium,low,6,porkbun,,,28/09/2026 04:16
 ed928e68-2934-477e-a570-3b8e3ff69a76,antitoxic.land,available,5.98,54.98,medium,low,9,namecheap,,,05/08/2026 19:55
 12192b6a-519b-450f-97e6-237f234407aa,export.land,resell,,,high,low,6,Dynadot Inc,10/05/2026 17:00,10/05/2027 17:00,26/09/2026 05:57
+fd858065-9f26-4ee8-9f23-29cfabef2035,inuit.land,premium,33.5,,medium,low,5,unstoppable,,,28/09/2026 09:42
+e5317f0c-7aa9-49c1-86b7-d8d6f56dbfd5,leonardo.land,available,15,,high,low,8,unstoppable,,,28/09/2026 18:51
 66ccc30b-ed39-496a-824b-7a3aac9dfeed,catkinate.land,available,5.98,54.98,medium,low,9,namecheap,,,11/08/2026 22:09
 e5c1de68-79a7-4b28-bcb1-0b28e3ad7f73,mussolini.land,available,15.99,41.99,medium,low,9,namesilo,,,23/09/2026 08:12
 062765ba-5f22-4013-8b69-8d94486e5ea0,sappy.land,available,5.98,54.98,medium,low,5,namecheap,,,12/08/2026 14:56
@@ -878,6 +944,7 @@ ea5d7ea8-3667-40db-8a93-ff5a355ff89d,dominical.land,available,5.98,54.98,medium,
 6e31c375-de0e-4e03-99a3-d6fa9d2abd97,curiosity.land,available,19.99,,high,low,9,name.com,,,
 deefcaba-79dc-4f04-a7c5-fdaeed7e18cb,stability.land,available,19.99,,high,low,9,name.com,,,
 3c642ad1-3c0c-404c-b5b4-219e5ffadbc6,refractive.land,available,5.98,54.98,medium,low,10,namecheap,,,13/08/2026 23:32
+d72e90a4-25d2-499c-b069-564ab5749ee5,wylie.land,available,15.99,41.99,medium,low,5,namesilo,,,28/09/2026 13:59
 1e998d66-2bbc-4e2d-89bf-2e3f4aabf248,shaky.land,available,5.38,33.32,medium,low,5,spaceship,,,27/09/2026 14:56
 91d32193-8402-448b-b0d3-4537146919c2,balaena.land,available,5.98,54.98,medium,low,7,namecheap,,,21/09/2026 20:30
 ad47a16f-e2b1-49fe-988b-ba7d5c524fed,abloom.land,available,5.98,54.98,medium,low,6,namecheap,,,
@@ -895,107 +962,40 @@ c8707c28-e243-4658-8492-27e83c247194,met.land,premium,414.2,414.2,high,low,3,spa
 e4e65201-edde-407c-a4a7-7940294a88d0,catclaw.land,available,15.99,41.99,medium,low,7,namesilo,,,23/09/2026 23:59
 0ef4e849-a0c4-43d3-be5b-59d4be88ea5c,narration.land,available,5.98,54.98,high,low,9,namecheap,,,03/09/2026 13:18
 66783c22-6974-404a-9678-76adc6ef2792,nourishing.land,available,5.98,54.98,high,low,10,namecheap,,,19/09/2026 17:50
+4dfce3d1-b2b1-4722-8904-11eb7216fb0b,pavel.land,available,15.99,41.99,medium,low,5,namesilo,,,28/09/2026 12:06
 01fa90a7-01ed-4779-a2d9-845583ae6a03,shockingly.land,available,5.98,54.98,medium,low,10,namecheap,,,16/09/2026 01:31
 ae016940-e1e8-4ec2-bb93-413e0b08e64a,needing.land,available,19.99,,high,low,7,name.com,,,
 14b43bed-42f5-48fd-bf33-0e519f7f7b62,unladylike.land,available,5.98,54.98,medium,low,10,namecheap,,,12/09/2026 14:39
 7dc0ef1e-53a9-4b10-a658-6b99c908512c,guns.land,available,15.99,41.99,high,low,4,namesilo,,,17/09/2026 07:29
-26fb8155-0ade-464d-b336-23aff1a3dfb3,specially.land,available,19.99,,medium,low,9,name.com,,,
+26fb8155-0ade-464d-b336-23aff1a3dfb3,specially.land,available,5.98,54.98,medium,low,9,namecheap,,,28/09/2026 14:42
 3c709c3a-8002-44df-9faf-3723bbbca52e,disjoined.land,available,5.98,54.98,medium,low,9,namecheap,,,14/08/2026 11:07
 4868faa9-a223-41b3-9cc2-d65ee48d7617,gentlemen.land,available,5.98,54.98,high,low,9,namecheap,,,25/09/2026 17:34
 d8cf5317-1c8e-48eb-843e-74bb5aad13ae,wristband.land,available,15.99,41.99,high,low,9,namesilo,,,24/09/2026 07:49
 cb784c63-3e01-418d-8ccb-fd1a9dccff09,fleecy.land,available,5.98,54.98,medium,low,6,namecheap,,,18/08/2026 07:42
 c86156a1-89a4-4658-83d4-7dce08aaba3b,doped.land,available,5.98,54.98,medium,low,5,namecheap,,,14/08/2026 15:59
 8334b778-ebdc-4e23-bff5-4447f3e8d689,genoese.land,available,5.98,54.98,high,low,7,namecheap,,,18/08/2026 21:48
-29310eae-bfcd-4d92-aab4-52a3bfd4f45f,two.land,premium,512,512,high,low,3,namesilo,,,21/09/2026 12:14
+29310eae-bfcd-4d92-aab4-52a3bfd4f45f,two.land,premium,400.5,512,high,low,3,unstoppable,,,28/09/2026 12:14
 7b0d34ed-0adb-4a37-b2a0-cffa5df3414b,hanukah.land,available,19.99,,high,low,7,name.com,,,
+c873b9e9-5734-4ba1-9bf0-15c545ff4ba8,tomlinson.land,available,5.38,33.32,medium,low,9,spaceship,,,28/09/2026 12:15
 14f3850a-26c6-449f-bcf8-07320436d8ab,forgive.land,available,19.99,,high,low,7,name.com,,,
 7117882e-4c54-464e-b728-64839d044cce,owning.land,available,15.99,41.99,high,low,6,namesilo,,,20/09/2026 00:32
-c6fe236a-934d-48cb-a3ce-2f4fd6c8217e,bahrain.land,available,,,high,high,7,,,,
 1923fb53-0d03-4382-90cd-d8d161d88cb0,needful.land,available,5.98,54.98,high,low,7,namecheap,,,03/09/2026 14:51
 b065c7da-acb2-4893-bcdf-65ea76678c68,acropetal.land,available,5.98,54.98,medium,low,9,namecheap,,,
 55c85345-678c-4a60-8a9a-6eb2ed415299,mannerism.land,available,15.99,41.99,medium,low,9,namesilo,,,17/09/2026 14:14
+d133d596-eecb-4928-920b-a17dce5729bb,premises.land,available,15.99,41.99,high,low,8,namesilo,,,28/09/2026 15:06
 5cb0a0fd-886a-44fe-b543-39629874c9f7,frostbite.land,available,5.98,54.98,medium,low,9,namecheap,,,24/09/2026 19:56
+c0feeeeb-4774-4bd4-9857-b7e6d537ee1b,aia.land,premium,102.67,102.67,high,low,3,spaceship,,,28/09/2026 21:25
+a9acc807-e751-46f9-ace3-41e4ceeae2a3,grande.land,available,5.38,33.32,medium,low,6,spaceship,,,29/09/2026 02:58
 602368e0-fd79-4568-a899-042a8e2681a1,cacophony.land,available,5.98,54.98,medium,low,9,namecheap,,,10/08/2026 13:13
 6a11681e-5647-472c-a3cf-354493572bef,unbolted.land,available,5.98,54.98,medium,low,8,namecheap,,,12/09/2026 01:36
 ff6313f1-52ac-4811-8a7c-9174808b7811,babysitter.land,available,5.98,54.98,high,low,10,namecheap,,,21/09/2026 13:10
 c6cae083-bbd8-49bc-8b5f-3895e1975ee0,paprika.land,available,5.98,54.98,high,low,7,namecheap,,,23/09/2026 05:39
-fa2913e6-fdbe-4b00-9d20-2057b6bb049c,coolly.land,available,19.99,,medium,low,6,name.com,,,
+fa2913e6-fdbe-4b00-9d20-2057b6bb049c,coolly.land,available,15.99,41.99,medium,low,6,namesilo,,,28/09/2026 14:20
 9b303000-bb16-40cb-87b9-5a2666ee4467,paperlike.land,available,5.98,54.98,low,low,9,namecheap,,,12/08/2026 02:45
 2adc71b9-2cc9-47da-8df9-806812479185,perform.land,available,19.99,,high,low,7,name.com,,,
 cf50ba46-e6ef-41f7-b748-b710016f75a6,broadcast.land,available,32.2,32.2,high,low,9,cloudflare,,,28/09/2026 03:17
 75c3b21f-a7ba-41f2-aefb-725e9a831e29,imitative.land,available,5.98,54.98,medium,low,9,namecheap,,,13/08/2026 03:34
 8a7ca75f-7bec-4597-868d-dcdcfb6a464a,unpaired.land,available,5.98,54.98,medium,low,8,namecheap,,,12/09/2026 15:30
 926729c6-7510-479f-ab95-21b0a7de08d4,hotfoot.land,available,5.98,54.98,high,low,7,namecheap,,,09/09/2026 19:44
+8891c4cb-2589-4719-b116-98929a486908,pierson.land,available,5.38,33.32,medium,low,7,spaceship,,,28/09/2026 23:01
 de7e3d6f-1f52-4b56-81eb-8bd74ee2fab9,volumetric.land,available,5.98,54.98,medium,low,10,namecheap,,,13/09/2026 07:03
-fe27ae24-a130-4beb-9d33-7bd4a3935afb,effort.land,available,15.99,41.99,high,low,6,namesilo,,,28/09/2026 05:04
-48354e7a-c930-4bf9-87e4-f252aa502514,jamie.land,available,5.98,54.98,high,low,5,namecheap,,,25/09/2026 17:50
-1b74ed94-38a1-4454-a06a-32c051a4fa6c,adoringly.land,available,5.98,54.98,medium,low,9,namecheap,,,13/09/2026 17:23
-4b604571-eae3-43c9-a6e5-0febc43bd9a3,squatting.land,available,5.98,54.98,medium,low,9,namecheap,,,10/09/2026 17:35
-6aeb1e36-1124-49bb-95ae-7e617c8969f5,profits.land,available,15,,high,low,7,unstoppable,,,28/09/2026 05:34
-3fca8cbe-cfb1-4cdd-beb3-1ceb60249026,outfit.land,available,5.38,33.32,high,low,6,spaceship,,,27/09/2026 13:44
-3ac5f5b9-3e22-4947-a77a-2b58d4c6461e,apolune.land,available,5.98,54.98,medium,low,7,namecheap,,,19/09/2026 18:55
-f6121579-22b8-4b52-b4d8-8ade79ff285c,broke.land,available,15.99,41.99,high,low,5,namesilo,,,23/09/2026 09:49
-3403d7b5-cb7b-4b14-89c2-a0ce7a2ea2f5,cuddles.land,available,15.99,41.99,high,low,7,namesilo,,,21/09/2026 08:38
-3f6f3fa2-3362-4c1d-a850-1ed57d4510f3,cyclopean.land,available,15.99,52.99,medium,low,9,name.com,,,13/08/2026 13:51
-1eb902be-25bf-4599-8b8f-83fafeed38c6,annually.land,available,19.99,,high,low,8,name.com,,,
-5127cd4f-bcad-4749-ba08-bc57c3050d46,persisted.land,available,15.99,41.99,medium,low,9,namesilo,,,18/09/2026 08:42
-35b7bd50-63ff-430c-86be-1e24f1087d16,subarctic.land,available,5.98,54.98,medium,low,9,namecheap,,,10/09/2026 23:36
-661e5ff0-abe4-4933-93ef-c6ee47855694,serves.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 11:42
-aa425acc-2827-4ff7-a71a-04db34ab5635,freshly.land,available,5.98,54.98,high,low,7,namecheap,,,18/08/2026 15:18
-97a935c7-da3c-4e0b-9579-327a324407aa,turkic.land,available,5.98,54.98,medium,low,6,namecheap,,,11/09/2026 21:14
-8d17085d-b243-48f5-8f4a-93a327034c20,aisle.land,available,15.99,41.99,high,low,5,namesilo,,,17/09/2026 23:28
-cd0a9f21-59b6-4a47-baba-eea2d90a5992,mystically.land,available,5.98,54.98,medium,low,10,namecheap,,,15/09/2026 15:58
-300b54ee-1641-4a95-a58d-2bd7821d88ab,darkness.land,available,15.99,52.99,high,low,8,name.com,,,13/08/2026 17:53
-0b118950-bbd5-4e65-8c5d-2259f5fbdca1,angular.land,available,15.99,41.99,high,low,7,namesilo,,,22/09/2026 04:30
-d69e47c9-ab73-489f-af06-cdc88ff8e4e9,foretoken.land,available,15.99,41.99,medium,low,9,namesilo,,,21/09/2026 03:42
-81bed3d7-2798-4515-b3c0-896f6af8c999,investigation.land,available,15.99,41.99,high,low,13,namesilo,,,25/09/2026 17:01
-9c3aac96-b314-4676-8747-bd4edcbb0d89,warned.land,available,15.99,41.99,medium,low,6,namesilo,,,18/09/2026 02:46
-e3f24cf9-f6ce-4311-b026-b828ddeeade6,artwork.land,premium,19.99,,high,low,7,name.com,,,
-feaac27b-4d74-4af4-93a8-398e598a84b0,aidoneus.land,available,15.99,52.99,medium,low,8,name.com,,,17/09/2026 20:53
-d2ae4ee3-3400-4080-ad4c-9a6ead488632,drab.land,available,5.98,54.98,medium,low,4,namecheap,,,14/08/2026 11:43
-904d3a67-0934-4855-99bd-e4abbba4fcda,candidly.land,available,5.98,54.98,medium,low,8,namecheap,,,14/09/2026 05:06
-24726660-f6fa-4e2a-a386-8a9f9fcc20f5,indiscrete.land,available,5.98,54.98,medium,low,10,namecheap,,,22/08/2026 03:09
-0b1f863a-f9e9-4377-8562-bc043cface57,sensed.land,available,5.98,54.98,high,low,6,namecheap,,,08/09/2026 16:07
-49584d92-7259-48cb-9935-0c5763f008e9,careful.land,available,15.99,41.99,high,low,7,namesilo,,,23/09/2026 12:50
-dae4bd09-c8ba-4d24-ac86-a11da9e69b27,titanic.land,available,5.98,54.98,high,low,7,namecheap,,,11/09/2026 16:30
-f78103b3-14b8-4679-b23a-9fda6be8b84f,shell.land,available,,,high,medium,5,,,,
-651368ef-91b5-40a1-bc13-99bcc9ff0799,soppy.land,available,5.98,54.98,medium,low,5,namecheap,,,09/08/2026 01:14
-33ffec8e-0477-4433-bdef-fb7138a1bec3,arequipa.land,available,15.99,41.99,medium,low,8,namesilo,,,20/09/2026 03:53
-370e9d55-663b-41aa-aba6-4202e032d9ff,crooner.land,available,15.99,41.99,medium,low,7,namesilo,,,21/09/2026 22:42
-20015c16-9f19-48ea-ba48-d44833c6f094,balsam.land,available,15.99,52.99,high,low,6,name.com,,,22/09/2026 00:04
-d4ea69d4-2f30-44c1-b6ff-0fba76deb9dd,secretive.land,available,5.98,54.98,medium,low,9,namecheap,,,12/08/2026 12:18
-a261cbe6-ea5e-41f7-802d-b7e85607a1fd,chocolate.land,resell,,,high,low,9,"Spaceship, Inc.",02/07/2026 16:50,02/07/2027 16:50,26/09/2026 04:55
-42adc838-c76b-4b6f-80b8-8f93e02c6dfc,alters.land,available,15.99,41.99,medium,low,6,namesilo,,,20/09/2026 13:23
-a1c2a63a-9dd9-4b4a-a73a-e215ade49036,aerodrome.land,available,15.99,41.99,high,low,9,namesilo,,,17/09/2026 12:58
-7e9c7b97-ac78-402b-86df-e7fbb7354284,freddie.land,available,15.99,41.99,high,low,7,namesilo,,,26/09/2026 03:15
-34c35a67-172e-41be-a21d-275766bc5fe6,sparely.land,available,15.99,41.99,medium,low,7,namesilo,,,16/09/2026 05:49
-437a47c1-499c-4e20-ba45-ecb9c1209d52,illuminate.land,available,5.98,54.98,high,low,10,namecheap,,,23/08/2026 02:47
-545ea7a3-cd58-47db-9dc1-a67682e06370,downstair.land,available,5.98,54.98,medium,low,9,namecheap,,,14/08/2026 17:57
-77dd59c0-dfda-4cfa-94f6-58288c9b59eb,aery.land,available,5.98,54.98,medium,low,4,namecheap,,,
-241acf03-5e61-4cae-9236-46fe2b9458c9,plural.land,available,5.98,54.98,high,low,6,namecheap,,,08/09/2026 22:02
-ff66de21-4c24-4d2e-8038-941d559ad958,hedged.land,available,5.98,54.98,medium,low,6,namecheap,,,21/08/2026 05:50
-f6f51e78-1143-433f-9646-967ed528327e,super.land,resell,,,high,medium,5,1API GmbH,10/02/2014 21:56,10/02/2027 21:56,26/09/2026 09:25
-9762ac0b-e9b5-4f74-9344-c6e676f5c2ec,entering.land,available,5.98,54.98,high,low,8,namecheap,,,22/08/2026 01:48
-81b52943-8829-410b-af10-748fc09b6b47,purses.land,available,15.99,41.99,medium,low,6,namesilo,,,20/09/2026 11:07
-124d5201-678b-47b8-8f34-a7764d25a685,stuart.land,available,5.98,54.98,high,low,6,namecheap,,,25/09/2026 22:59
-05cc7b4f-b7df-439c-a9f7-e2beafbfe5f0,monophonic.land,available,5.98,54.98,medium,low,10,namecheap,,,25/08/2026 04:55
-250d9ecc-34c7-4d0a-b08a-7bb125ed20e3,aloneness.land,available,15.99,41.99,medium,low,9,namesilo,,,18/09/2026 13:12
-bc88ac26-9842-4040-9cb3-fb19eef980ec,unconscious.land,available,5.98,54.98,medium,low,11,namecheap,,,26/09/2026 03:06
-e933ffed-b54c-44b4-afae-b656cebb2de1,carnival.land,premium,118.8,118.8,high,low,8,namesilo,,,24/09/2026 16:10
-dad8b16a-6dea-40e3-9e4c-494703a4700e,directing.land,available,15.99,41.99,high,low,9,namesilo,,,24/09/2026 10:51
-5fb1179a-8f39-4dc7-8303-1c1625892be5,sailing.land,available,5.98,54.98,high,low,7,namecheap,,,10/09/2026 00:37
-aff0c407-3a9a-490e-93ca-e823e7eaca09,enkindled.land,available,5.98,54.98,medium,low,9,namecheap,,,17/08/2026 09:31
-4917549d-de1d-48c7-9916-73884e816604,eyetooth.land,available,5.98,54.98,medium,low,8,namecheap,,,11/08/2026 16:59
-32d6d720-13e4-468d-90c7-38aa16f86587,brith.land,available,15.99,41.99,medium,low,5,namesilo,,,23/09/2026 09:27
-76c113b7-7443-4b1c-8845-5d8b91ed814d,touchable.land,available,5.98,54.98,high,low,9,namecheap,,,11/09/2026 07:57
-b85ba802-e848-4d98-b3cf-8d2687972034,correct.land,available,15.99,41.99,high,low,7,namesilo,,,23/09/2026 23:33
-2319fd41-c20e-4426-ac05-62e31ce6c0e0,jarvis.land,available,15.99,41.99,high,medium,6,namesilo,,,27/09/2026 01:43
-3a7fa7ac-bab3-4e49-b057-030ce7e713b0,incitive.land,available,5.98,54.98,medium,low,8,namecheap,,,22/08/2026 01:27
-0899f87d-3911-4c13-8c03-3984600ae560,assignable.land,available,5.98,54.98,medium,low,10,namecheap,,,07/08/2026 06:19
-33a6222b-8c52-4151-a5fb-775e3d539b51,signs.land,available,15.99,41.99,high,low,5,namesilo,,,17/09/2026 04:39
-a4e4f539-8c6b-417c-9630-eb2b77b4fce8,academe.land,available,5.98,54.98,high,low,7,namecheap,,,16/09/2026 20:22
-df7bf57d-694e-4a1f-b9c6-2a7bd357cc76,scientist.land,available,15.99,41.99,high,low,9,namesilo,,,25/09/2026 04:30
-60a7b25b-9eaa-44f8-b942-fb96805a4590,kurdish.land,available,5.98,54.98,medium,low,7,namecheap,,,22/08/2026 17:04
-0fdec56f-4d0d-43c5-988d-d748947fba49,hokey.land,available,5.98,54.98,medium,low,5,namecheap,,,09/08/2026 00:37
-2b95beec-d01b-4414-a746-216c9c9bb670,bivalve.land,available,5.98,54.98,high,low,7,namecheap,,,10/08/2026 09:09
-c0a2ca11-e288-4c35-8a8c-0138f58e914c,bordered.land,available,15.99,41.99,medium,low,8,namesilo,,,22/09/2026 23:55
